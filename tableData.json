@@ -1,0 +1,82 @@
+[
+  {
+    "studentName": "Alice Johnson",
+    "gender": "Female",
+    "classLevel": "Sophomore",
+    "homeState": "Texas",
+    "major": "Mathematics",
+    "extracurricularActivity": "Debate Team"
+  },
+  {
+    "studentName": "Bob Williams",
+    "gender": "Male",
+    "classLevel": "Freshman",
+    "homeState": "Florida",
+    "major": "Physics",
+    "extracurricularActivity": "Soccer"
+  },
+  {
+    "studentName": "Daniel Martinez",
+    "gender": "Male",
+    "classLevel": "Freshman",
+    "homeState": "Nevada",
+    "major": "Political Science",
+    "extracurricularActivity": "Football"
+  },
+  {
+    "studentName": "Emma Brown",
+    "gender": "Female",
+    "classLevel": "Senior",
+    "homeState": "Illinois",
+    "major": "Engineering",
+    "extracurricularActivity": "Music Club"
+  },
+  {
+    "studentName": "Ethan Thomas",
+    "gender": "Male",
+    "classLevel": "Junior",
+    "homeState": "Michigan",
+    "major": "Business",
+    "extracurricularActivity": "Basketball"
+  },
+  {
+    "studentName": "Jane Smith",
+    "gender": "Female",
+    "classLevel": "Junior",
+    "homeState": "New York",
+    "major": "Biology",
+    "extracurricularActivity": "Chess Club"
+  },
+  {
+    "studentName": "John Doe",
+    "gender": "Male",
+    "classLevel": "Senior",
+    "homeState": "California",
+    "major": "Computer Science",
+    "extracurricularActivity": "Basketball"
+  },
+  {
+    "studentName": "Michael Davis",
+    "gender": "Male",
+    "classLevel": "Junior",
+    "homeState": "Georgia",
+    "major": "Chemistry",
+    "extracurricularActivity": "Drama"
+  },
+  {
+    "studentName": "Olivia Wilson",
+    "gender": "Female",
+    "classLevel": "Sophomore",
+    "homeState": "Ohio",
+    "major": "English",
+    "extracurricularActivity": "Swimming"
+  },
+  {
+    "studentName": "Sophia Anderson",
+    "gender": "Female",
+    "classLevel": "Senior",
+    "homeState": "Arizona",
+    "major": "History",
+    "extracurricularActivity": "Dance Club"
+  }
+]
