@@ -1,4 +1,5 @@
 const {test, expect}= require('@playwright/test');
+
 test.describe('Automation with W3School',() => {
 
 
@@ -12,11 +13,7 @@ test('Launch on W3School' , async function({page}){
     await page.locator("//button[@type='submit']//span[@class='button-text'][normalize-space()='Sign In']").click()
     // expect.soft(Page).toHaveText('Invalid username or password')
 
-    // try{
 
-    // }
-    // catch(e){
-    //     console.log('Error in Sign In', e
             
 // //Sign Up to W3School
 //     await page.locator("//a[normalize-space()='Register']").click()
