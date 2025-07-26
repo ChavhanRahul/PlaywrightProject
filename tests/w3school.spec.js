@@ -1,4 +1,8 @@
-const {test, expect}= require('@playwright/test');
+const {test, expect}= require('@playwright/test')
+const fs = require('fs')
+
+const credentials = JSON.parse(fs.readFileSync('credentials.json', 'utf-8'))
+const {username, password} = credentials
 
 test.describe('Automation with W3School',() => {
 
@@ -8,8 +12,8 @@ test('Launch on W3School' , async function({page}){
 
 //Sign In to W3School
     await page.locator("//span[normalize-space()='Sign In'][1]").click()
-    await page.getByPlaceholder('Email').fill('rahulbjobs@gmail.com')
-    await page.getByPlaceholder('Password').fill('Best@2025')
+    await page.getByPlaceholder('Email').fill(username)
+    await page.getByPlaceholder('Password').fill(password)
     await page.locator("//button[@type='submit']//span[@class='button-text'][normalize-space()='Sign In']").click()
     // expect.soft(Page).toHaveText('Invalid username or password')
 
