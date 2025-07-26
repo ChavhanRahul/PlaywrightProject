@@ -1,0 +1,637 @@
+# Page snapshot
+
+```yaml
+- link "Home link":
+  - /url: https://www.w3schools.com
+- navigation:
+  - button "Tutorials"
+  - button "Exercises"
+  - button "Certificates"
+  - button "Services"
+- text: Search field
+- textbox "Search field"
+- button "Button to search":
+  - img
+- button "Toggle light/dark mode": 
+- button "Sign in to your account":
+  - img
+  - text: Sign In
+- link "W3Schools Certificates":
+  - /url: https://campus.w3schools.com/collections/course-catalog
+  - text: Get Certified
+- link "Become a PLUS user and unlock powerful features":
+  - /url: https://order.w3schools.com/plans
+  - text: Upgrade
+- link "Contact us about W3Schools Academy for educational institutions":
+  - /url: /academy/index.php
+  - img
+  - text: For Teachers
+- link "Get Your Own Website With W3Schools Spaces":
+  - /url: /spaces/index.php
+  - text: Spaces
+- button "Close":
+  - img
+- text: Sign in Get access to more learning features
+- paragraph: Don't have an account? Register
+- button "Google":
+  - img
+- button "Facebook":
+  - img
+- button "GitHub":
+  - img
+- button "Feide":
+  - img
+- text: or
+- textbox "Email": rahulbjobs@gmail.com
+- textbox "Password": Best@2025
+- button:
+  - img
+- text: Forgot your password?
+- button "Sign In" [disabled]
+- text: ❯
+- link "HTML":
+  - /url: /html/default.asp
+- link "CSS":
+  - /url: /css/default.asp
+- link "JAVASCRIPT":
+  - /url: /js/default.asp
+- link "SQL":
+  - /url: /sql/default.asp
+- link "PYTHON":
+  - /url: /python/default.asp
+- link "JAVA":
+  - /url: /java/default.asp
+- link "PHP":
+  - /url: /php/default.asp
+- link "HOW TO":
+  - /url: /howto/default.asp
+- link "W3.CSS":
+  - /url: /w3css/default.asp
+- link "C":
+  - /url: /c/index.php
+- link "C++":
+  - /url: /cpp/default.asp
+- link "C#":
+  - /url: /cs/index.php
+- link "BOOTSTRAP":
+  - /url: /bootstrap/bootstrap_ver.asp
+- link "REACT":
+  - /url: /react/default.asp
+- link "MYSQL":
+  - /url: /mysql/default.asp
+- link "JQUERY":
+  - /url: /jquery/default.asp
+- link "EXCEL":
+  - /url: /excel/index.php
+- link "XML":
+  - /url: /xml/default.asp
+- link "DJANGO":
+  - /url: /django/index.php
+- link "NUMPY":
+  - /url: /python/numpy/default.asp
+- link "PANDAS":
+  - /url: /python/pandas/default.asp
+- link "NODEJS":
+  - /url: /nodejs/default.asp
+- link "DSA":
+  - /url: /dsa/index.php
+- link "TYPESCRIPT":
+  - /url: /typescript/index.php
+- link "ANGULAR":
+  - /url: /angular/default.asp
+- link "GIT":
+  - /url: /git/default.asp
+- link "POSTGRESQL":
+  - /url: /postgresql/index.php
+- link "MONGODB":
+  - /url: /mongodb/index.php
+- link "ASP":
+  - /url: /asp/default.asp
+- link "AI":
+  - /url: /ai/default.asp
+- link "R":
+  - /url: /r/default.asp
+- link "GO":
+  - /url: /go/index.php
+- link "KOTLIN":
+  - /url: /kotlin/index.php
+- link "SASS":
+  - /url: /sass/default.php
+- link "VUE":
+  - /url: /vue/index.php
+- link "GEN AI":
+  - /url: /gen_ai/index.php
+- link "SCIPY":
+  - /url: /python/scipy/index.php
+- link "CYBERSECURITY":
+  - /url: /cybersecurity/index.php
+- link "DATA SCIENCE":
+  - /url: /datascience/default.asp
+- link "INTRO TO PROGRAMMING":
+  - /url: /programming/index.php
+- link "BASH":
+  - /url: /bash/index.php
+- link "RUST":
+  - /url: /rust/index.php
+- heading "Learn to Code" [level=1]
+- heading "With the world's largest web developer site." [level=3]
+- textbox "Search our tutorials"
+- button ""
+- heading "Not Sure Where To Begin?" [level=4]:
+  - link "Not Sure Where To Begin?":
+    - /url: where_to_start.asp
+- img
+- heading "HTML" [level=1]
+- paragraph: The language for building web pages
+- link "Learn HTML":
+  - /url: /html/default.asp
+- link "Video Tutorial":
+  - /url: https://www.w3schools.com/videos/index.php
+- link "HTML Reference":
+  - /url: /tags/default.asp
+- link "Get Certified":
+  - /url: https://campus.w3schools.com/collections/certifications/products/html-certificate
+- heading "HTML Example:" [level=3]
+- text: <!DOCTYPE html> <html> <head> <title>HTML Tutorial</title> </head> <body> <h1>This is a heading</h1> <p>This is a paragraph.</p> </body> </html>
+- link "Try it Yourself":
+  - /url: /html/tryit.asp?filename=tryhtml_default_default
+- heading "CSS" [level=1]
+- paragraph: The language for styling web pages
+- link "Learn CSS":
+  - /url: /css/default.asp
+- link "CSS Reference":
+  - /url: /cssref/index.php
+- link "Get Certified":
+  - /url: https://campus.w3schools.com/collections/certifications/products/css-certificate
+- heading "CSS Example:" [level=3]
+- text: "body { background-color: lightblue; } h1 { color: white; text-align: center; } p { font-family: verdana; }"
+- link "Try it Yourself":
+  - /url: /css/tryit.asp?filename=trycss_default
+- heading "JavaScript" [level=1]
+- paragraph: The language for programming web pages
+- link "Learn JavaScript":
+  - /url: /js/default.asp
+- link "JavaScript Reference":
+  - /url: /jsref/default.asp
+- link "Get Certified":
+  - /url: https://campus.w3schools.com/collections/certifications/products/javascript-certificate
+- heading "JavaScript Example:" [level=3]
+- text: "<button onclick=\"myFunction()\">Click Me!</button> <script> function myFunction() { let x = document.getElementById(\"demo\"); x.style.fontSize = \"25px\"; x.style.color = \"red\"; } </script>"
+- link "Try it Yourself":
+  - /url: /js/tryit.asp?filename=tryjs_default
+- heading "Python" [level=1]
+- paragraph: A popular programming language
+- link "Learn Python":
+  - /url: /python/default.asp
+- link "Python Reference":
+  - /url: /python/python_reference.asp
+- link "Get Certified":
+  - /url: https://campus.w3schools.com/collections/certifications/products/python-certificate
+- heading "Python Example:" [level=3]
+- text: "if 5 > 2: print(\"Five is greater than two!\")"
+- link "Try it Yourself":
+  - /url: /python/trypython.asp?filename=demo_indentation
+- heading "SQL" [level=1]
+- paragraph: A language for accessing databases
+- link "Learn SQL":
+  - /url: /sql/default.asp
+- link "SQL Reference":
+  - /url: /sql/sql_ref_keywords.asp
+- link "Get Certified":
+  - /url: https://campus.w3schools.com/collections/certifications/products/sql-certificate
+- heading "SQL Example:" [level=3]
+- text: SELECT * FROM Customers WHERE Country='Mexico';
+- link "Try it Yourself":
+  - /url: /sql/trysql.asp?filename=trysql_select_where
+- heading "PHP" [level=2]
+- heading "A web server programming language" [level=5]
+- link "Learn PHP":
+  - /url: /php/default.asp
+- heading "jQuery" [level=2]
+- heading "A JS library for developing web pages" [level=5]
+- link "Learn jQuery":
+  - /url: /jquery/default.asp
+- heading "Java" [level=2]
+- heading "A programming language" [level=5]
+- link "Learn Java":
+  - /url: /java/default.asp
+- heading "C++" [level=2]
+- heading "A programming language" [level=5]
+- link "Learn C++":
+  - /url: /cpp/default.asp
+- heading "W3.CSS" [level=2]
+- heading "A CSS framework for faster and better responsive web pages" [level=5]
+- link "Learn W3.CSS":
+  - /url: /w3css/default.asp
+- heading "Bootstrap" [level=2]
+- heading "A CSS framework for designing better web pages" [level=5]
+- link "Learn Bootstrap":
+  - /url: /bootstrap/bootstrap_ver.asp
+- link "C":
+  - /url: /c/index.php
+  - heading "C" [level=2]
+- link "C#":
+  - /url: /cs/index.php
+  - heading "C#" [level=2]
+- link "R":
+  - /url: /r/default.asp
+  - heading "R" [level=2]
+- link "Kotlin":
+  - /url: /kotlin/index.php
+  - heading "Kotlin" [level=2]
+- link "Node.js":
+  - /url: /nodejs/default.asp
+  - heading "Node.js" [level=2]
+- link "React":
+  - /url: /react/default.asp
+  - heading "React" [level=2]
+- link "JSON":
+  - /url: /js/js_json.asp
+  - heading "JSON" [level=2]
+- link "Vue":
+  - /url: /vue/index.php
+  - heading "Vue" [level=2]
+- link "MySQL":
+  - /url: /mysql/default.asp
+  - heading "MySQL" [level=2]
+- link "XML":
+  - /url: /xml/default.asp
+  - heading "XML" [level=2]
+- link "Sass":
+  - /url: /sass/default.php
+  - heading "Sass" [level=2]
+- link "Icons":
+  - /url: /icons/default.asp
+  - heading "Icons" [level=2]
+- link "RWD":
+  - /url: /css/css_rwd_intro.asp
+  - heading "RWD" [level=2]
+- link "Graphics":
+  - /url: /graphics/default.asp
+  - heading "Graphics" [level=2]
+- link "SVG":
+  - /url: /graphics/svg_intro.asp
+  - heading "SVG" [level=2]
+- link "Canvas":
+  - /url: /graphics/canvas_intro.asp
+  - heading "Canvas" [level=2]
+- link "Raspberry Pi":
+  - /url: /nodejs/nodejs_raspberrypi.asp
+  - heading "Raspberry Pi" [level=2]
+- link "Cyber Security":
+  - /url: /cybersecurity/index.php
+  - heading "Cyber Security" [level=2]
+- link "Colors":
+  - /url: /colors/default.asp
+  - heading "Colors" [level=2]
+- link "Git":
+  - /url: /git/default.asp
+  - heading "Git" [level=2]
+- link "Matplotlib":
+  - /url: /python/matplotlib_intro.asp
+  - heading "Matplotlib" [level=2]
+- link "NumPy":
+  - /url: /python/numpy/default.asp
+  - heading "NumPy" [level=2]
+- link "Pandas":
+  - /url: /python/pandas/default.asp
+  - heading "Pandas" [level=2]
+- link "SciPy":
+  - /url: /python/scipy/index.php
+  - heading "SciPy" [level=2]
+- link "ASP":
+  - /url: /asp/default.asp
+  - heading "ASP" [level=2]
+- link "AngularJS":
+  - /url: /angular/default.asp
+  - heading "AngularJS" [level=2]
+- link "AppML":
+  - /url: /appml/default.asp
+  - heading "AppML" [level=2]
+- link "Go":
+  - /url: /go/index.php
+  - heading "Go" [level=2]
+- link "TypeScript":
+  - /url: /typescript/index.php
+  - heading "TypeScript" [level=2]
+- link "Django":
+  - /url: /django/index.php
+  - heading "Django" [level=2]
+- link "MongoDB":
+  - /url: /mongodb/index.php
+  - heading "MongoDB" [level=2]
+- link "Statistics":
+  - /url: /statistics/index.php
+  - heading "Statistics" [level=2]
+- link "Data Science":
+  - /url: /datascience/default.asp
+  - heading "Data Science" [level=2]
+- link "PostgreSQL":
+  - /url: /postgresql/index.php
+  - heading "PostgreSQL" [level=2]
+- link "HowTo":
+  - /url: /howto/default.asp
+  - heading "HowTo" [level=2]
+- link "Rust":
+  - /url: /rust/index.php
+  - heading "Rust" [level=2]
+- link "Spaces":
+  - /url: /spaces/index.php
+  - heading "Spaces" [level=2]
+- link "Typing Speed":
+  - /url: /typingspeed/default.asp
+  - heading "Typing Speed" [level=2]
+- link "Excel":
+  - /url: /excel/index.php
+  - heading "Excel" [level=2]
+- link "DSA - Data Structures and Algorithms":
+  - /url: /dsa/index.php
+  - heading "DSA - Data Structures and Algorithms" [level=2]
+- link "Machine Learning":
+  - /url: /python/python_ml_getting_started.asp
+  - heading "Machine Learning" [level=2]
+- link "Artificial Intelligence":
+  - /url: /ai/default.asp
+  - heading "Artificial Intelligence" [level=2]
+- link "Introduction to Programming":
+  - /url: /programming/index.php
+  - heading "Introduction to Programming" [level=2]
+- link "Bash":
+  - /url: /bash/index.php
+  - heading "Bash" [level=2]
+- heading "Log in / Sign Up" [level=1]
+- heading "Create a free account to track your progress, and get access to more features and learning materials." [level=4]:
+  - text: Create a
+  - strong: free
+  - text: account to track your progress, and get access to more features and learning materials.
+- img "Dynamic Spaces"
+- paragraph:
+  - link "Sign Up for Free":
+    - /url: https://profile.w3schools.com/sign-up?redirect_url=https%3A%2F%2Fwww.w3schools.com%2F
+- heading "Code Editor" [level=1]
+- heading "With our online code editor, you can edit code and view the result in your browser" [level=4]
+- textbox "w3schools.com/tryit" [disabled]: www.w3schools.com/tryit/
+- button "Frontend"
+- button "Backend"
+- img "Frontend Code Editor"
+- link "Try Frontend Editor (HTML/CSS/JS)":
+  - /url: /tryit/tryit.asp?filename=tryhtml_hello
+- link "Try Backend Editor (Python/PHP/Java/C..)":
+  - /url: /tryit/trycompiler.asp?filename=demo_python
+- heading "W3Schools Spaces" [level=1]
+- heading "If you want to create your own website, check out W3Schools Spaces." [level=3]:
+  - text: If you want to create your own website, check out
+  - link "W3Schools Spaces":
+    - /url: /spaces/index.php
+  - text: .
+- heading "It is free to use, and does not require any setup:" [level=3]
+- img "Dynamic Spaces"
+- link "Learn More":
+  - /url: /spaces/index.php
+- heading "Become a Plus User" [level=1]
+- heading "And unlock powerful features:" [level=3]
+- list:
+  - listitem:
+    - img "Checkmark"
+    - text: Browse W3Schools
+    - strong: without ads
+  - listitem:
+    - img "Checkmark"
+    - text: Build and host Websites
+  - listitem:
+    - img "Checkmark"
+    - text: Unlimited challenges
+  - listitem:
+    - img "Checkmark"
+    - text: Unlimited practice tests
+  - listitem:
+    - img "Checkmark"
+    - text: Get extra credits
+  - listitem:
+    - img "Checkmark"
+    - text: Priority support
+- link "Learn More":
+  - /url: /plus/index.php
+- separator
+- heading "For Teachers" [level=1]
+- paragraph: "Streamline your teaching:"
+- list:
+  - listitem:
+    - img "Checkmark"
+    - text: Manage your classroom
+  - listitem:
+    - img "Checkmark"
+    - text: Ready-to-use learning materials
+  - listitem:
+    - img "Checkmark"
+    - text: Customize study plans
+  - listitem:
+    - img "Checkmark"
+    - text: Track student progress
+  - listitem:
+    - img "Checkmark"
+    - text: Interactive coding challenges
+- link "Learn More":
+  - /url: /academy/index.php
+- link "Classroom":
+  - /url: /academy/index.php
+  - img "Classroom"
+- heading "Color Picker" [level=1]
+- heading "W3Schools' famous color picker:" [level=4]
+- link "Colorpicker":
+  - /url: /colors/colors_picker.asp
+  - img "Colorpicker"
+- heading "Code Game" [level=1]
+- heading "Help the Lynx collect pine cones!" [level=2]
+- link "Code Game":
+  - /url: /codegame/index.html
+  - img "Code Game"
+- paragraph:
+  - link "Play Game":
+    - /url: /codegame/index.html
+- heading "Exercises and Quizzes" [level=2]
+- heading "Test your skills!" [level=4]
+- paragraph:
+  - link "Exercises":
+    - /url: /exercises/index.php
+- paragraph:
+  - link "Quizzes":
+    - /url: /quiztest/default.asp
+- heading "Web Templates" [level=1]
+- heading "Browse our selection of free responsive HTML Templates" [level=4]:
+  - text: Browse our selection of
+  - strong: free
+  - text: responsive HTML Templates
+- link "W3.CSS Templates":
+  - /url: /w3css/w3css_templates.asp
+  - img "W3.CSS Templates"
+- paragraph:
+  - link "Browse Templates":
+    - /url: /w3css/w3css_templates.asp
+- heading "Kickstart your career" [level=2]
+- paragraph: Get certified by completing a course
+- link "Get started":
+  - /url: https://campus.w3schools.com/collections/course-catalog
+- img
+- img: w 3 s c h o o l s C E R T I F I E D . 2 0 2 5
+- heading "How To Section" [level=2]
+- heading "Code snippets for HTML, CSS and JavaScript" [level=4]
+- heading "For example, how to create a slideshow:" [level=6]
+- textbox "Select template" [disabled]: www.w3schools.com/howto/
+- iframe
+- link "Learn How To":
+  - /url: /howto/default.asp
+- text: Track your progress - it's free!
+- link "Login to your account":
+  - /url: https://profile.w3schools.com/log-in?redirect_url=https%3A%2F%2Fpathfinder.w3schools.com&origin=https%3A%2F%2Fwww.w3schools.com%2F
+  - text: Log in
+- link "Sign Up to Improve Your Learning Experience":
+  - /url: https://profile.w3schools.com/sign-up?redirect_url=https%3A%2F%2Fpathfinder.w3schools.com&origin=https%3A%2F%2Fwww.w3schools.com%2F
+  - text: Sign Up
+- link "W3Schools.com":
+  - /url: //www.w3schools.com
+  - text: 
+- link "PLUS":
+  - /url: /plus/index.php
+- link "SPACES":
+  - /url: /spaces/index.php
+- link "GET CERTIFIED":
+  - /url: https://campus.w3schools.com/collections/certifications
+- link "FOR TEACHERS":
+  - /url: /academy/index.php
+- link "FOR BUSINESS":
+  - /url: /academy/index.php
+- link "CONTACT US":
+  - /url: javascript:void(0);
+- heading "Top Tutorials" [level=5]
+- link "HTML Tutorial":
+  - /url: /html/default.asp
+- link "CSS Tutorial":
+  - /url: /css/default.asp
+- link "JavaScript Tutorial":
+  - /url: /js/default.asp
+- link "How To Tutorial":
+  - /url: /howto/default.asp
+- link "SQL Tutorial":
+  - /url: /sql/default.asp
+- link "Python Tutorial":
+  - /url: /python/default.asp
+- link "W3.CSS Tutorial":
+  - /url: /w3css/default.asp
+- link "Bootstrap Tutorial":
+  - /url: /bootstrap/bootstrap_ver.asp
+- link "PHP Tutorial":
+  - /url: /php/default.asp
+- link "Java Tutorial":
+  - /url: /java/default.asp
+- link "C++ Tutorial":
+  - /url: /cpp/default.asp
+- link "jQuery Tutorial":
+  - /url: /jquery/default.asp
+- heading "Top References" [level=5]
+- link "HTML Reference":
+  - /url: /tags/default.asp
+- link "CSS Reference":
+  - /url: /cssref/index.php
+- link "JavaScript Reference":
+  - /url: /jsref/default.asp
+- link "SQL Reference":
+  - /url: /sql/sql_ref_keywords.asp
+- link "Python Reference":
+  - /url: /python/python_reference.asp
+- link "W3.CSS Reference":
+  - /url: /w3css/w3css_references.asp
+- link "Bootstrap Reference":
+  - /url: /bootstrap/bootstrap_ref_all_classes.asp
+- link "PHP Reference":
+  - /url: /php/php_ref_overview.asp
+- link "HTML Colors":
+  - /url: /colors/colors_names.asp
+- link "Java Reference":
+  - /url: /java/java_ref_keywords.asp
+- link "Angular Reference":
+  - /url: /angular/angular_ref_directives.asp
+- link "jQuery Reference":
+  - /url: /jquery/jquery_ref_overview.asp
+- heading "Top Examples" [level=5]
+- link "HTML Examples":
+  - /url: /html/html_examples.asp
+- link "CSS Examples":
+  - /url: /css/css_examples.asp
+- link "JavaScript Examples":
+  - /url: /js/js_examples.asp
+- link "How To Examples":
+  - /url: /howto/default.asp
+- link "SQL Examples":
+  - /url: /sql/sql_examples.asp
+- link "Python Examples":
+  - /url: /python/python_examples.asp
+- link "W3.CSS Examples":
+  - /url: /w3css/w3css_examples.asp
+- link "Bootstrap Examples":
+  - /url: /bootstrap/bootstrap_examples.asp
+- link "PHP Examples":
+  - /url: /php/php_examples.asp
+- link "Java Examples":
+  - /url: /java/java_examples.asp
+- link "XML Examples":
+  - /url: /xml/xml_examples.asp
+- link "jQuery Examples":
+  - /url: /jquery/jquery_examples.asp
+- link "Get Certified":
+  - /url: https://campus.w3schools.com/collections/course-catalog
+  - heading "Get Certified" [level=5]
+- link "HTML Certificate":
+  - /url: https://campus.w3schools.com/collections/certifications/products/html-certificate
+- link "CSS Certificate":
+  - /url: https://campus.w3schools.com/collections/certifications/products/css-certificate
+- link "JavaScript Certificate":
+  - /url: https://campus.w3schools.com/collections/certifications/products/javascript-certificate
+- link "Front End Certificate":
+  - /url: https://campus.w3schools.com/collections/certifications/products/front-end-certificate
+- link "SQL Certificate":
+  - /url: https://campus.w3schools.com/collections/certifications/products/sql-certificate
+- link "Python Certificate":
+  - /url: https://campus.w3schools.com/collections/certifications/products/python-certificate
+- link "PHP Certificate":
+  - /url: https://campus.w3schools.com/collections/certifications/products/php-certificate
+- link "jQuery Certificate":
+  - /url: https://campus.w3schools.com/collections/certifications/products/jquery-certificate
+- link "Java Certificate":
+  - /url: https://campus.w3schools.com/collections/certifications/products/java-certificate
+- link "C++ Certificate":
+  - /url: https://campus.w3schools.com/collections/certifications/products/c-certificate
+- link "C# Certificate":
+  - /url: https://campus.w3schools.com/collections/certifications/products/c-certificate-1
+- link "XML Certificate":
+  - /url: https://campus.w3schools.com/collections/certifications/products/xml-certificate
+- link "":
+  - /url: https://www.youtube.com/@w3schools
+- link "":
+  - /url: https://www.linkedin.com/company/w3schools.com/
+- link "":
+  - /url: https://discord.com/invite/w3schools
+- link "":
+  - /url: https://www.facebook.com/w3schoolscom/
+- link "":
+  - /url: https://www.instagram.com/w3schools.com_official/
+- link "FORUM":
+  - /url: /forum/default.asp
+- link "ABOUT":
+  - /url: /about/default.asp
+- link "ACADEMY":
+  - /url: /academy/index.php
+- text: W3Schools is optimized for learning and training. Examples might be simplified to improve reading and learning. Tutorials, references, and examples are constantly reviewed to avoid errors, but we cannot warrant full correctness of all content. While using W3Schools, you agree to have read and accepted our
+- link "terms of use":
+  - /url: /about/about_copyright.asp
+- text: ","
+- link "cookie and privacy policy":
+  - /url: /about/about_privacy.asp
+- text: .
+- link "Copyright 1999-2025":
+  - /url: /about/about_copyright.asp
+- text: by Refsnes Data. All Rights Reserved.
+- link "W3Schools is Powered by W3.CSS":
+  - /url: //www.w3schools.com/w3css/default.asp
+- text: .
+```
