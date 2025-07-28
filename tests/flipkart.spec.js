@@ -21,8 +21,5 @@ console.log(await newPage.title())
 
 
 
-<<<<<<< HEAD
-=======
 })
->>>>>>> 945c086 (added/update dependencies for github playwright.yml)
 })
