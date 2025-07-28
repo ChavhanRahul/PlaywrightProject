@@ -1,9 +1,12 @@
 // git init
+// git branch 
 // git add .
+// git branch -m master main (Rename from master to main)
 // git commit -m "Updating the repository with latest changes"
 // git push origin main
 // git pull
 // git pull origin main
+// git push --set-upstream origin main
 // git config pull.rebase true
 
 //const fs = require('fs')
