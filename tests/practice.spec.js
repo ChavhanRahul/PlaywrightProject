@@ -1,5 +1,6 @@
 const {test, expect} = require('@playwright/test')
 const { promises } = require('dns')
+<<<<<<< HEAD
 test("Learn Automation with Practice Website", async ({page}) => {
 
 //Launch Practice Application
@@ -26,6 +27,32 @@ test("Learn Automation with Practice Website", async ({page}) => {
     // expect(page).toHaveTitle("You logged into a secure area!")
 
     //OTP For Secure Login
+=======
+test.describe('Automate Practice Application', () => {
+
+
+test('Login to Practice Application', async function ({page}) {
+    await page.goto('https://practice.expandtesting.com/', {waitUntil: 'domcontentloaded'})   
+    //Verify the Title 
+    expect.soft(page).toHaveTitle('Practice')
+    //Verify the URL
+    expect(page).toHaveURL(/practice/)
+    //Select Demos option from the Menu
+    await page.locator("//a[@id='examples-dropdown']").selectOption('Examples')
+    //Scroll the page up to select Test Login Page link
+    await page.mouse.down()
+    //Login Page and open in same tab
+    await page.locator("//a[normalize-space()='Test Login Page']").click({waitUntil:'domcontentloaded'})
+    //Find Login Page and open in new tab
+    //await page.locator("//a[normalize-space()='Test Login Page']").click({modifiers: ['Control']})
+    await page.locator("//label[normalize-space()='Username']").fill('practice')
+    await page.locator("//input[@id='password']").fill('SuperSecretPassword!')  
+    await page.locator("//button[@type='submit']").click()
+    expect(page).toHaveTitle("You logged into a secure area!")
+}) 
+
+test('Verify OTP and Login', async function ({page}){
+>>>>>>> 945c086 (added/update dependencies for github playwright.yml)
     await page.locator("//a[normalize-space()='OTP: One Time Password']").click()
     expect(page).toHaveURL(/otp-login/)
     await page.locator("//input[@id='email']").fill('practice@expandtesting.com')
@@ -34,8 +61,27 @@ test("Learn Automation with Practice Website", async ({page}) => {
     await page.locator("//input[@id='otp']").fill('214365')
     await page.locator("//button[@id='btn-send-verify']").click()
     await page.locator("//i[normalize-space()='Logout']").click()
+<<<<<<< HEAD
 
     await browser.close()
    
    
+=======
+    await browser.close()
+})
+
+test('Handel Drop Down', async function ({page}) {
+    await page.goto('https://practice.expandtesting.com/dropdown')
+    // //Simple Drop down
+    // await page.locator("//select[@id='dropdown']").click()
+    // await page.locator("//select[@id='dropdown']").selectOption('Option 1')
+    //Select Country from the dropdown
+    await page.locator("//select[@id='country']").click()
+    //await page.locator("//select[@id='country']").selectOption( {value: 'IN'})
+    await page.locator("//select[@id='country']").selectOption( {label: 'India'})
+    
+})
+
+
+>>>>>>> 945c086 (added/update dependencies for github playwright.yml)
 })

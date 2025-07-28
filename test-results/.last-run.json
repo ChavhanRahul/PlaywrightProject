@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
   "status": "failed",
   "failedTests": [
     "e506040dc617406f1389-2eaac87ce514591fc2ad"
   ]
+=======
+  "status": "passed",
+  "failedTests": []
+>>>>>>> 945c086 (added/update dependencies for github playwright.yml)
 }
