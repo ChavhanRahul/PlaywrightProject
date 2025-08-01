@@ -44,8 +44,10 @@ export default defineConfig({
       use: { ...devices['Desktop Chrome'] ,
       viewport: { width: 1280, height: 720 },
       screenshot: 'on',
-      video: 'on',
-      trace: 'retain-on-failure'
+      video: 'off',
+      trace: 'retain-on-failure',
+      storageState: 'storageSatate.json'
+
     }
   }
 
