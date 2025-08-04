@@ -1,3 +1,12 @@
+const arr = [1,2,1,3,1]
+const Removeduplucate = arr.filter((item, index) => arr.indexOf(item) == index)
+console.log(Removeduplucate);
+
+
+
+
+
+
 // const {test, expect, chromium} = require('@playwright/test')
 // test.describe('Automation Interview at "UBS"', () => {
 //     test('Login to UBS', async ({page}) => {
