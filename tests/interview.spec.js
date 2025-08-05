@@ -1,5 +1,6 @@
 const arr = [1,2,1,3,1]
-const Removeduplucate = arr.filter((item, index) => arr.indexOf(item) == index)
+//const Removeduplucate = [...new Set(arr)]
+const Removeduplucate = arr.filter((item, index) => arr.indexOf(item) ===index)
 console.log(Removeduplucate);
 
 

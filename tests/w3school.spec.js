@@ -1,5 +1,14 @@
 const {test, expect} = require('@playwright/test')
+const { connectDatabase, disconnectDatabase, runQuery } = require('./db');
 const fs = require('fs')
+
+  test.beforeAll(async () => {
+    await connectDatabase();
+  });
+
+  test.afterAll(async () => {
+    await disconnectDatabase();
+  });
 
 const credentials = JSON.parse(fs.readFileSync('credentials.json', 'utf-8'))
 const {username2, password2} = credentials

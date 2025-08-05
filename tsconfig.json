@@ -2,38 +2,27 @@
   "compilerOptions": {
     "target": "ES2020",
     "module": "commonjs",
-    "checkJs": true,                 // Enables type checking in JS files
-    "allowJs": true,                 // Allow JS files in the project
-    "moduleResolution": "node",     // Resolves modules like Node.js
-    "baseUrl": ".",                 // Enables absolute imports relative to root
+    "allowJs": true,                // Allow JS files in the project
+    "checkJs": true,                // Enable type-checking for JS
+    "strict": true,
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noEmit": true,                 // Do not output .js files
+    "baseUrl": ".",                 // For path aliasing
     "paths": {
       "@pages/*": ["pages/*"],
       "@utils/*": ["utils/*"],
       "@fixtures/*": ["fixtures/*"]
-    }
+    },
+    "skipLibCheck": true
   },
-  "include": ["tests", "pages", "utils", "fixtures", "playwright.config.js"]
+  "include": [
+    "tests/**/*",
+    "pages/**/*",
+    "utils/**/*",
+    "fixtures/**/*",
+    "playwright.config.*"
+  ]
 }
-
-
-// {
-//   "compilerOptions": {
-//     "target": "ES2020",                          // Modern JS features
-//     "module": "commonjs",                        // Required for Node.js compatibility
-//     "lib": ["ES2020", "DOM"],                    // DOM support for browser code
-//     "strict": true,                              // Enables all strict type-checking
-//     "esModuleInterop": true,                     // Allow default imports from CommonJS
-//     "moduleResolution": "node",                  // Resolve modules like Node.js
-//     "resolveJsonModule": true,                   // Allow importing .json files
-//     "isolatedModules": true,                     // Required by Playwright
-//     "noEmit": true,                              // Do not emit JS files
-//     "skipLibCheck": true                         // Skip type checking of node_modules
-//   },
-//   "include": [
-//     "tests/**/*.ts",
-//     "pages/**/*.ts",
-//     "fixtures/**/*.ts",
-//     "utils/**/*.ts",
-//     "playwright.config.ts"
-//   ]
-// }

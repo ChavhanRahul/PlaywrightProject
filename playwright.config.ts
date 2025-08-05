@@ -36,6 +36,7 @@ export default defineConfig({
     expect: {timeout: 120_000},
 
   },
+  require('dotenv').config(),
 
   /* Configure projects for major browsers */
   projects: [
