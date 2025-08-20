@@ -1,13 +1,14 @@
 {
   "name": "automation",
   "version": "1.0.0",
-  "description": "",
+  "description": "Open Repository to learn and explore Playwright with JavaScript, Integrated with Jenkins Jobs to schedule pipeline. \r Pre-requisites:\r 1) Install npm\r 2) Install Playwright\r 3) Add Playwright plugins\r 4) Setup the Repo using the preffered methods HTTP : https://github.com/ChavhanRahul/PlaywrightProject.git\r 5) Try executing it locally first, if you want enhance the repo with additional feature you are welcome.",
   "main": "index.js",
   "scripts": {},
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@cucumber/cucumber": "^12.1.0",
     "@playwright/test": "^1.54.1",
     "@types/node": "^24.0.14",
     "@types/pg": "^8.15.5",
@@ -17,5 +18,16 @@
     "dotenv": "^17.2.1",
     "pg": "^8.16.3",
     "xlsx": "^0.18.5"
-  }
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChavhanRahul/PlaywrightProject.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ChavhanRahul/PlaywrightProject/issues"
+  },
+  "homepage": "https://github.com/ChavhanRahul/PlaywrightProject#readme"
 }
