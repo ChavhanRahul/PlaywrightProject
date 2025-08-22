@@ -47,7 +47,7 @@ export default defineConfig({
       screenshot: 'on',
       video: 'off',
       trace: 'retain-on-failure',
-      storageState: 'storageSatate.json'
+      storageState: 'storageState.json'
 
     }
   }

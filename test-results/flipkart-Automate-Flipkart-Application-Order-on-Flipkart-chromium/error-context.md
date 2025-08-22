@@ -1,0 +1,717 @@
+# Page snapshot
+
+```yaml
+- link "Flipkart":
+  - /url: /
+  - img "Flipkart"
+- link "Explore Plus":
+  - /url: /plus
+  - text: Explore Plus
+  - img
+- textbox "Search for products, brands and more": Motorola g85
+- button:
+  - img
+- link "Login":
+  - /url: /account/login?ret=/search%3Fq%3DMotorola%2520g85%26otracker%3Dsearch%26otracker1%3Dsearch%26marketplace%3DFLIPKART%26as-show%3Doff%26as%3Doff
+- link "Become a Seller":
+  - /url: https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect
+- text: More
+- img
+- link "Cart":
+  - /url: /viewcart?exploreMode=true&preference=FLIPKART
+  - img
+  - text: Cart
+- text: Electronics
+- img
+- text: TVs & Appliances
+- img
+- text: Men
+- img
+- text: Women
+- img
+- text: Baby & Kids
+- img
+- text: Home & Furniture
+- img
+- text: Sports, Books & More
+- img
+- link "Flights":
+  - /url: /travel/flights?otracker=nmenu_Flights
+- link "Offer Zone":
+  - /url: /offers-list/top-deals?screen=dynamic&pk=themeViews%3DDT-OMU-A2%3ADT-OMU~widgetType%3DdealCard~contentType%3Dneo&otracker=nmenu_offer-zone
+- text: Filters CATEGORIES
+- img
+- link "Mobiles & Accessories":
+  - /url: /mobiles-accessories/pr?sid=tyy&q=Motorola+g85&otracker=categorytree
+- img
+- link "Mobiles":
+  - /url: /mobiles/pr?sid=tyy,4io&q=Motorola+g85&otracker=categorytree
+- text: Price . . . . . .
+- combobox:
+  - option "Min" [selected]
+  - option "₹10000"
+  - option "₹15000"
+  - option "₹20000"
+  - option "₹30000"
+- text: to
+- combobox:
+  - option "₹10000"
+  - option "₹15000"
+  - option "₹20000"
+  - option "₹30000"
+  - option "₹30000+" [selected]
+- text: Brand
+- img
+- text: MOTOROLA
+- img
+- text: "? Customer Ratings"
+- img
+- text: GST Invoice Available
+- img
+- text: RAM
+- img
+- text: 8 GB and Above Internal Storage
+- img
+- text: Battery Capacity
+- img
+- text: Screen Size
+- img
+- text: Primary Camera
+- img
+- text: Secondary Camera
+- img
+- text: Processor Brand
+- img
+- text: Speciality
+- img
+- text: Resolution Type
+- img
+- text: Operating System
+- img
+- text: Network Type
+- img
+- text: Sim Type
+- img
+- text: Offers
+- img
+- text: Special Price Buy More, Save More No Cost EMI Features
+- img
+- text: Type
+- img
+- text: Number of Cores
+- img
+- text: Availability
+- img
+- text: Discount
+- img
+- text: 20% or more 10% or more 50% or more 40% or more 30% or more Clock Speed
+- img
+- link "Need help? Help me decide Buying Guide":
+  - /url: /buying-guide/mobiles?sid=tyy,4io&otracker=bg_from_browse_lhs
+  - text: Need help? Help me decide
+  - img
+  - img "Buying Guide"
+- link "Home":
+  - /url: /
+- img
+- link "Mobiles & Accessories":
+  - /url: /mobiles-accessories/pr?sid=tyy&marketplace=FLIPKART
+- img
+- link "Mobiles":
+  - /url: /mobiles/pr?sid=tyy,4io&marketplace=FLIPKART
+- text: Showing 1 – 19 of 1,946 results for "Motorola g85" Sort By Relevance Popularity Price -- Low to High Price -- High to Low Newest First
+- link "Bestseller Motorola G85 5G (Olive Green, 128 GB) Add to Compare Motorola G85 5G (Olive Green, 128 GB) 4.4 2,24,912 Ratings & 11,422 Reviews • 8 GB RAM | 128 GB ROM • 16.94 cm (6.67 inch) Full HD+ Display • 50MP + 8MP | 32MP Front Camera • 5000 mAh Battery • 6s Gen 3 Processor • 1 Year on Handset and 6 Months on Accessories ₹15,999 ₹20,999 23% off Upto ₹12,200 Off on Exchange Bank Offer":
+  - /url: /motorola-g85-5g-olive-green-128-gb/p/itm897540eb01ff1?pid=MOBHY9PQMNCMDVCD&lid=LSTMOBHY9PQMNCMDVCDI6UUHQ&marketplace=FLIPKART&q=Motorola+g85&store=tyy%2F4io&spotlightTagId=default_BestsellerId_tyy%2F4io&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=8face6c7-b564-495b-a202-8b89ca950119.MOBHY9PQMNCMDVCD.SEARCH&ppt=sp&ppn=sp&ssid=ue5i8g22hs0000001755884992805&qH=9203211c77f6267a
+  - text: Bestseller
+  - img "Motorola G85 5G (Olive Green, 128 GB)"
+  - text: Add to Compare
+  - img
+  - text: Motorola G85 5G (Olive Green, 128 GB) 4.4
+  - img
+  - text: 2,24,912 Ratings & 11,422 Reviews
+  - list:
+    - listitem: • 8 GB RAM | 128 GB ROM
+    - listitem: • 16.94 cm (6.67 inch) Full HD+ Display
+    - listitem: • 50MP + 8MP | 32MP Front Camera
+    - listitem: • 5000 mAh Battery
+    - listitem: • 6s Gen 3 Processor
+    - listitem: • 1 Year on Handset and 6 Months on Accessories
+  - text: ₹15,999 ₹20,999 23% off
+  - img
+  - text: Upto ₹12,200 Off on Exchange Bank Offer
+- link "Motorola G85 5G (Viva Magenta, 128 GB) Add to Compare Motorola G85 5G (Viva Magenta, 128 GB) 4.4 2,24,912 Ratings & 11,422 Reviews • 8 GB RAM | 128 GB ROM • 16.94 cm (6.67 inch) Full HD+ Display • 50MP + 8MP | 32MP Front Camera • 5000 mAh Battery • 6s Gen 3 Processor • 1 Year on Handset and 6 Months on Accessories ₹15,999 ₹20,999 23% off Upto ₹12,200 Off on Exchange Bank Offer":
+  - /url: /motorola-g85-5g-viva-magenta-128-gb/p/itmcde2d6941a6ce?pid=MOBH35ZQFGVJFJ3W&lid=LSTMOBH35ZQFGVJFJ3WA8SV9M&marketplace=FLIPKART&q=Motorola+g85&store=tyy%2F4io&srno=s_1_2&otracker=search&otracker1=search&fm=organic&iid=8face6c7-b564-495b-a202-8b89ca950119.MOBH35ZQFGVJFJ3W.SEARCH&ppt=hp&ppn=homepage&ssid=ue5i8g22hs0000001755884992805&qH=9203211c77f6267a
+  - img "Motorola G85 5G (Viva Magenta, 128 GB)"
+  - text: Add to Compare
+  - img
+  - text: Motorola G85 5G (Viva Magenta, 128 GB) 4.4
+  - img
+  - text: 2,24,912 Ratings & 11,422 Reviews
+  - list:
+    - listitem: • 8 GB RAM | 128 GB ROM
+    - listitem: • 16.94 cm (6.67 inch) Full HD+ Display
+    - listitem: • 50MP + 8MP | 32MP Front Camera
+    - listitem: • 5000 mAh Battery
+    - listitem: • 6s Gen 3 Processor
+    - listitem: • 1 Year on Handset and 6 Months on Accessories
+  - text: ₹15,999 ₹20,999 23% off
+  - img
+  - text: Upto ₹12,200 Off on Exchange Bank Offer
+- link "Motorola G85 5G (Cobalt Blue, 128 GB) Add to Compare Motorola G85 5G (Cobalt Blue, 128 GB) 4.4 2,24,912 Ratings & 11,422 Reviews • 8 GB RAM | 128 GB ROM • 16.94 cm (6.67 inch) Full HD+ Display • 50MP + 8MP | 32MP Front Camera • 5000 mAh Battery • 6s Gen 3 Processor • 1 Year on Handset and 6 Months on Accessories ₹15,999 ₹20,999 23% off Upto ₹12,200 Off on Exchange Bank Offer":
+  - /url: /motorola-g85-5g-cobalt-blue-128-gb/p/itmeb6f09bd82403?pid=MOBHY9PQ7FGZKVDK&lid=LSTMOBHY9PQ7FGZKVDK4B1TIW&marketplace=FLIPKART&q=Motorola+g85&store=tyy%2F4io&spotlightTagId=default_BestsellerId_tyy%2F4io&srno=s_1_3&otracker=search&otracker1=search&fm=organic&iid=8face6c7-b564-495b-a202-8b89ca950119.MOBHY9PQ7FGZKVDK.SEARCH&ppt=hp&ppn=homepage&ssid=ue5i8g22hs0000001755884992805&qH=9203211c77f6267a
+  - img "Motorola G85 5G (Cobalt Blue, 128 GB)"
+  - text: Add to Compare
+  - img
+  - text: Motorola G85 5G (Cobalt Blue, 128 GB) 4.4
+  - img
+  - text: 2,24,912 Ratings & 11,422 Reviews
+  - list:
+    - listitem: • 8 GB RAM | 128 GB ROM
+    - listitem: • 16.94 cm (6.67 inch) Full HD+ Display
+    - listitem: • 50MP + 8MP | 32MP Front Camera
+    - listitem: • 5000 mAh Battery
+    - listitem: • 6s Gen 3 Processor
+    - listitem: • 1 Year on Handset and 6 Months on Accessories
+  - text: ₹15,999 ₹20,999 23% off
+  - img
+  - text: Upto ₹12,200 Off on Exchange Bank Offer
+- link "Motorola G85 5G (Urban Grey, 128 GB) Add to Compare Motorola G85 5G (Urban Grey, 128 GB) 4.4 2,24,912 Ratings & 11,422 Reviews • 8 GB RAM | 128 GB ROM • 16.94 cm (6.67 inch) Full HD+ Display • 50MP + 8MP | 32MP Front Camera • 5000 mAh Battery • 6s Gen 3 Processor • 1 Year on Handset and 6 Months on Accessories ₹15,999 ₹20,999 23% off Upto ₹12,200 Off on Exchange Bank Offer":
+  - /url: /motorola-g85-5g-urban-grey-128-gb/p/itm2edcd35eb02bd?pid=MOBHY9PQHVCM54FH&lid=LSTMOBHY9PQHVCM54FHI6UBP0&marketplace=FLIPKART&q=Motorola+g85&store=tyy%2F4io&srno=s_1_4&otracker=search&otracker1=search&fm=organic&iid=8face6c7-b564-495b-a202-8b89ca950119.MOBHY9PQHVCM54FH.SEARCH&ppt=hp&ppn=homepage&ssid=ue5i8g22hs0000001755884992805&qH=9203211c77f6267a
+  - img "Motorola G85 5G (Urban Grey, 128 GB)"
+  - text: Add to Compare
+  - img
+  - text: Motorola G85 5G (Urban Grey, 128 GB) 4.4
+  - img
+  - text: 2,24,912 Ratings & 11,422 Reviews
+  - list:
+    - listitem: • 8 GB RAM | 128 GB ROM
+    - listitem: • 16.94 cm (6.67 inch) Full HD+ Display
+    - listitem: • 50MP + 8MP | 32MP Front Camera
+    - listitem: • 5000 mAh Battery
+    - listitem: • 6s Gen 3 Processor
+    - listitem: • 1 Year on Handset and 6 Months on Accessories
+  - text: ₹15,999 ₹20,999 23% off
+  - img
+  - text: Upto ₹12,200 Off on Exchange Bank Offer
+- link "Motorola G85 5G (Olive Green, 256 GB) Add to Compare Motorola G85 5G (Olive Green, 256 GB) 4.4 80,179 Ratings & 4,482 Reviews • 12 GB RAM | 256 GB ROM • 16.94 cm (6.67 inch) Full HD+ Display • 50MP + 8MP | 32MP Front Camera • 5000 mAh Battery • 6s Gen 3 Processor • 1 Year on Handset and 6 Months on Accessories ₹17,999 ₹22,999 21% off Upto ₹13,900 Off on Exchange Bank Offer":
+  - /url: /motorola-g85-5g-olive-green-256-gb/p/itmaaa1d66637153?pid=MOBHY9PQ7B5GYJRX&lid=LSTMOBHY9PQ7B5GYJRXZQFQGK&marketplace=FLIPKART&q=Motorola+g85&store=tyy%2F4io&srno=s_1_5&otracker=search&otracker1=search&fm=organic&iid=8face6c7-b564-495b-a202-8b89ca950119.MOBHY9PQ7B5GYJRX.SEARCH&ppt=hp&ppn=homepage&ssid=ue5i8g22hs0000001755884992805&qH=9203211c77f6267a
+  - img "Motorola G85 5G (Olive Green, 256 GB)"
+  - text: Add to Compare
+  - img
+  - text: Motorola G85 5G (Olive Green, 256 GB) 4.4
+  - img
+  - text: 80,179 Ratings & 4,482 Reviews
+  - list:
+    - listitem: • 12 GB RAM | 256 GB ROM
+    - listitem: • 16.94 cm (6.67 inch) Full HD+ Display
+    - listitem: • 50MP + 8MP | 32MP Front Camera
+    - listitem: • 5000 mAh Battery
+    - listitem: • 6s Gen 3 Processor
+    - listitem: • 1 Year on Handset and 6 Months on Accessories
+  - text: ₹17,999 ₹22,999 21% off
+  - img
+  - text: Upto ₹13,900 Off on Exchange Bank Offer
+- link "Motorola G85 5G (Viva Magenta, 256 GB) Add to Compare Motorola G85 5G (Viva Magenta, 256 GB) 4.4 80,179 Ratings & 4,482 Reviews • 12 GB RAM | 256 GB ROM • 16.94 cm (6.67 inch) Full HD+ Display • 50MP + 8MP | 32MP Front Camera • 5000 mAh Battery • 6s Gen 3 Processor • 1 Year on Handset and 6 Months on Accessories ₹17,999 ₹22,999 21% off Upto ₹13,900 Off on Exchange Bank Offer":
+  - /url: /motorola-g85-5g-viva-magenta-256-gb/p/itm4c770ba125f47?pid=MOBH35ZQGDH68XAJ&lid=LSTMOBH35ZQGDH68XAJHFV9YO&marketplace=FLIPKART&q=Motorola+g85&store=tyy%2F4io&srno=s_1_6&otracker=search&otracker1=search&fm=organic&iid=8face6c7-b564-495b-a202-8b89ca950119.MOBH35ZQGDH68XAJ.SEARCH&ppt=hp&ppn=homepage&ssid=ue5i8g22hs0000001755884992805&qH=9203211c77f6267a
+  - img "Motorola G85 5G (Viva Magenta, 256 GB)"
+  - text: Add to Compare
+  - img
+  - text: Motorola G85 5G (Viva Magenta, 256 GB) 4.4
+  - img
+  - text: 80,179 Ratings & 4,482 Reviews
+  - list:
+    - listitem: • 12 GB RAM | 256 GB ROM
+    - listitem: • 16.94 cm (6.67 inch) Full HD+ Display
+    - listitem: • 50MP + 8MP | 32MP Front Camera
+    - listitem: • 5000 mAh Battery
+    - listitem: • 6s Gen 3 Processor
+    - listitem: • 1 Year on Handset and 6 Months on Accessories
+  - text: ₹17,999 ₹22,999 21% off
+  - img
+  - text: Upto ₹13,900 Off on Exchange Bank Offer
+- link "Motorola G85 5G (Cobalt Blue, 256 GB) Add to Compare Motorola G85 5G (Cobalt Blue, 256 GB) 4.4 80,179 Ratings & 4,482 Reviews • 12 GB RAM | 256 GB ROM • 16.94 cm (6.67 inch) Full HD+ Display • 50MP + 8MP | 32MP Front Camera • 5000 mAh Battery • 6s Gen 3 Processor • 1 Year on Handset and 6 Months on Accessories ₹17,999 ₹22,999 21% off Upto ₹13,900 Off on Exchange Bank Offer":
+  - /url: /motorola-g85-5g-cobalt-blue-256-gb/p/itm86e54f2214094?pid=MOBHY9PQX72GHDRN&lid=LSTMOBHY9PQX72GHDRNAASJKM&marketplace=FLIPKART&q=Motorola+g85&store=tyy%2F4io&srno=s_1_7&otracker=search&otracker1=search&fm=organic&iid=8face6c7-b564-495b-a202-8b89ca950119.MOBHY9PQX72GHDRN.SEARCH&ppt=hp&ppn=homepage&ssid=ue5i8g22hs0000001755884992805&qH=9203211c77f6267a
+  - img "Motorola G85 5G (Cobalt Blue, 256 GB)"
+  - text: Add to Compare
+  - img
+  - text: Motorola G85 5G (Cobalt Blue, 256 GB) 4.4
+  - img
+  - text: 80,179 Ratings & 4,482 Reviews
+  - list:
+    - listitem: • 12 GB RAM | 256 GB ROM
+    - listitem: • 16.94 cm (6.67 inch) Full HD+ Display
+    - listitem: • 50MP + 8MP | 32MP Front Camera
+    - listitem: • 5000 mAh Battery
+    - listitem: • 6s Gen 3 Processor
+    - listitem: • 1 Year on Handset and 6 Months on Accessories
+  - text: ₹17,999 ₹22,999 21% off
+  - img
+  - text: Upto ₹13,900 Off on Exchange Bank Offer
+- link "Motorola G85 5G (Urban Grey, 256 GB) Add to Compare Motorola G85 5G (Urban Grey, 256 GB) 4.4 80,179 Ratings & 4,482 Reviews • 12 GB RAM | 256 GB ROM • 16.94 cm (6.67 inch) Full HD+ Display • 50MP + 8MP | 32MP Front Camera • 5000 mAh Battery • 6s Gen 3 Processor • 1 Year on Handset and 6 Months on Accessories ₹17,999 ₹22,999 21% off Upto ₹13,900 Off on Exchange Bank Offer":
+  - /url: /motorola-g85-5g-urban-grey-256-gb/p/itm136314c4d5877?pid=MOBHY9PQZDUEQTFG&lid=LSTMOBHY9PQZDUEQTFG26VHVK&marketplace=FLIPKART&q=Motorola+g85&store=tyy%2F4io&srno=s_1_8&otracker=search&otracker1=search&fm=organic&iid=8face6c7-b564-495b-a202-8b89ca950119.MOBHY9PQZDUEQTFG.SEARCH&ppt=hp&ppn=homepage&ssid=ue5i8g22hs0000001755884992805&qH=9203211c77f6267a
+  - img "Motorola G85 5G (Urban Grey, 256 GB)"
+  - text: Add to Compare
+  - img
+  - text: Motorola G85 5G (Urban Grey, 256 GB) 4.4
+  - img
+  - text: 80,179 Ratings & 4,482 Reviews
+  - list:
+    - listitem: • 12 GB RAM | 256 GB ROM
+    - listitem: • 16.94 cm (6.67 inch) Full HD+ Display
+    - listitem: • 50MP + 8MP | 32MP Front Camera
+    - listitem: • 5000 mAh Battery
+    - listitem: • 6s Gen 3 Processor
+    - listitem: • 1 Year on Handset and 6 Months on Accessories
+  - text: ₹17,999 ₹22,999 21% off
+  - img
+  - text: Upto ₹13,900 Off on Exchange Bank Offer
+- link "MOTOROLA g05 (Forest Green, 64 GB) Add to Compare MOTOROLA g05 (Forest Green, 64 GB) 4.2 47,939 Ratings & 3,315 Reviews • 4 GB RAM | 64 GB ROM | Expandable Upto 1 TB • 16.94 cm (6.67 inch) HD+ Display • 50MP Rear Camera | 8MP Front Camera • 5100 mAh Battery • Helio G81 Processor • 1 Year Warranty on Handset and 6 Months Warranty on Accessories ₹6,999 ₹9,999 30% off Upto ₹5,200 Off on Exchange Bank Offer":
+  - /url: /motorola-g05-forest-green-64-gb/p/itme5ed06a5943b9?pid=MOBH5F3Q2SGMAFHR&lid=LSTMOBH5F3Q2SGMAFHR6YHZS0&marketplace=FLIPKART&q=Motorola+g85&store=tyy%2F4io&spotlightTagId=default_BestsellerId_tyy%2F4io&srno=s_1_9&otracker=search&otracker1=search&fm=organic&iid=8face6c7-b564-495b-a202-8b89ca950119.MOBH5F3Q2SGMAFHR.SEARCH&ppt=hp&ppn=homepage&ssid=ue5i8g22hs0000001755884992805&qH=9203211c77f6267a
+  - img "MOTOROLA g05 (Forest Green, 64 GB)"
+  - text: Add to Compare
+  - img
+  - text: MOTOROLA g05 (Forest Green, 64 GB) 4.2
+  - img
+  - text: 47,939 Ratings & 3,315 Reviews
+  - list:
+    - listitem: • 4 GB RAM | 64 GB ROM | Expandable Upto 1 TB
+    - listitem: • 16.94 cm (6.67 inch) HD+ Display
+    - listitem: • 50MP Rear Camera | 8MP Front Camera
+    - listitem: • 5100 mAh Battery
+    - listitem: • Helio G81 Processor
+    - listitem: • 1 Year Warranty on Handset and 6 Months Warranty on Accessories
+  - text: ₹6,999 ₹9,999 30% off
+  - img
+  - text: Upto ₹5,200 Off on Exchange Bank Offer
+- link "MOTOROLA G96 5G (Pantone Ashleigh Blue, 128 GB) Add to Compare MOTOROLA G96 5G (Pantone Ashleigh Blue, 128 GB) 4.4 8,262 Ratings & 444 Reviews • 8 GB RAM | 128 GB ROM • 16.94 cm (6.67 inch) Full HD+ Display • 50MP + 8MP | 32MP Front Camera • 5500 mAh Battery • 7s Gen 2 Processor • 1 Year Warranty on Handset and 6 Months Warranty on Accessories ₹17,999 ₹20,999 14% off Upto ₹13,900 Off on Exchange Bank Offer":
+  - /url: /motorola-g96-5g-pantone-ashleigh-blue-128-gb/p/itm93452c0761719?pid=MOBHB3SZ2ZUQQQ9U&lid=LSTMOBHB3SZ2ZUQQQ9U5BKC6D&marketplace=FLIPKART&q=Motorola+g85&store=tyy%2F4io&srno=s_1_10&otracker=search&otracker1=search&fm=organic&iid=8face6c7-b564-495b-a202-8b89ca950119.MOBHB3SZ2ZUQQQ9U.SEARCH&ppt=hp&ppn=homepage&ssid=ue5i8g22hs0000001755884992805&qH=9203211c77f6267a
+  - img "MOTOROLA G96 5G (Pantone Ashleigh Blue, 128 GB)"
+  - text: Add to Compare
+  - img
+  - text: MOTOROLA G96 5G (Pantone Ashleigh Blue, 128 GB) 4.4
+  - img
+  - text: 8,262 Ratings & 444 Reviews
+  - list:
+    - listitem: • 8 GB RAM | 128 GB ROM
+    - listitem: • 16.94 cm (6.67 inch) Full HD+ Display
+    - listitem: • 50MP + 8MP | 32MP Front Camera
+    - listitem: • 5500 mAh Battery
+    - listitem: • 7s Gen 2 Processor
+    - listitem: • 1 Year Warranty on Handset and 6 Months Warranty on Accessories
+  - text: ₹17,999 ₹20,999 14% off
+  - img
+  - text: Upto ₹13,900 Off on Exchange Bank Offer
+- link "MOTOROLA G96 5G (Pantone Ashleigh Blue, 256 GB) Add to Compare MOTOROLA G96 5G (Pantone Ashleigh Blue, 256 GB) 4.4 8,262 Ratings & 444 Reviews • 8 GB RAM | 256 GB ROM • 16.94 cm (6.67 inch) Full HD+ Display • 50MP + 8MP | 32MP Front Camera • 5500 mAh Battery • 7s Gen 2 Processor • 1 Year Warranty on Handset and 6 Months Warranty on Accessories ₹19,999 ₹22,999 13% off Upto ₹15,400 Off on Exchange Bank Offer":
+  - /url: /motorola-g96-5g-pantone-ashleigh-blue-256-gb/p/itmda6d829eead4b?pid=MOBHB3SZWPZTFFEE&lid=LSTMOBHB3SZWPZTFFEECZ5ZOS&marketplace=FLIPKART&q=Motorola+g85&store=tyy%2F4io&srno=s_1_11&otracker=search&otracker1=search&fm=organic&iid=8face6c7-b564-495b-a202-8b89ca950119.MOBHB3SZWPZTFFEE.SEARCH&ppt=hp&ppn=homepage&ssid=ue5i8g22hs0000001755884992805&qH=9203211c77f6267a
+  - img "MOTOROLA G96 5G (Pantone Ashleigh Blue, 256 GB)"
+  - text: Add to Compare
+  - img
+  - text: MOTOROLA G96 5G (Pantone Ashleigh Blue, 256 GB) 4.4
+  - img
+  - text: 8,262 Ratings & 444 Reviews
+  - list:
+    - listitem: • 8 GB RAM | 256 GB ROM
+    - listitem: • 16.94 cm (6.67 inch) Full HD+ Display
+    - listitem: • 50MP + 8MP | 32MP Front Camera
+    - listitem: • 5500 mAh Battery
+    - listitem: • 7s Gen 2 Processor
+    - listitem: • 1 Year Warranty on Handset and 6 Months Warranty on Accessories
+  - text: ₹19,999 ₹22,999 13% off
+  - img
+  - text: Upto ₹15,400 Off on Exchange Bank Offer
+- link "MOTOROLA Edge 60 Fusion 5G (PANTONE Mykonos Blue, 256 GB) Add to Compare MOTOROLA Edge 60 Fusion 5G (PANTONE Mykonos Blue, 256 GB) 4.5 23,245 Ratings & 1,239 Reviews • 12 GB RAM | 256 GB ROM | Expandable Upto 1 TB • 16.94 cm (6.67 inch) Display • 50MP + 13MP | 32MP Front Camera • 5500 mAh Battery • Dimensity 7400 Processor • 68W Charger • 1 Year Warranty on Handset and 6 Months Warranty on Accessories ₹24,999 ₹27,999 10% off Upto ₹19,350 Off on Exchange Bank Offer":
+  - /url: /motorola-edge-60-fusion-5g-pantone-mykonos-blue-256-gb/p/itmed0508d75f2e5?pid=MOBH9AQZBGJGQSTG&lid=LSTMOBH9AQZBGJGQSTG2M316H&marketplace=FLIPKART&q=Motorola+g85&store=tyy%2F4io&srno=s_1_12&otracker=search&otracker1=search&fm=organic&iid=8face6c7-b564-495b-a202-8b89ca950119.MOBH9AQZBGJGQSTG.SEARCH&ppt=hp&ppn=homepage&ssid=ue5i8g22hs0000001755884992805&qH=9203211c77f6267a
+  - img "MOTOROLA Edge 60 Fusion 5G (PANTONE Mykonos Blue, 256 GB)"
+  - text: Add to Compare
+  - img
+  - text: MOTOROLA Edge 60 Fusion 5G (PANTONE Mykonos Blue, 256 GB) 4.5
+  - img
+  - text: 23,245 Ratings & 1,239 Reviews
+  - list:
+    - listitem: • 12 GB RAM | 256 GB ROM | Expandable Upto 1 TB
+    - listitem: • 16.94 cm (6.67 inch) Display
+    - listitem: • 50MP + 13MP | 32MP Front Camera
+    - listitem: • 5500 mAh Battery
+    - listitem: • Dimensity 7400 Processor
+    - listitem: • 68W Charger
+    - listitem: • 1 Year Warranty on Handset and 6 Months Warranty on Accessories
+  - text: ₹24,999 ₹27,999 10% off
+  - img
+  - text: Upto ₹19,350 Off on Exchange Bank Offer
+- link "MOTOROLA Edge 50 (Peach Fuzz, 256 GB) Add to Compare MOTOROLA Edge 50 (Peach Fuzz, 256 GB) 4.3 38,522 Ratings & 2,857 Reviews • 8 GB RAM | 256 GB ROM • 16.94 cm (6.67 inch) Display • 50MP + 13MP + 10MP | 32MP Front Camera • 5000 mAh Battery • Snapdragon 7 Gen 1 Accelerated Edition Processor • 1 Year Warranty on Handset and 6 Months Warranty on Accessories ₹20,999 ₹32,999 36% off Super Deals Upto ₹16,400 Off on Exchange":
+  - /url: /motorola-edge-50-peach-fuzz-256-gb/p/itmbb9d98d3f286b?pid=MOBH2Q5YS97TYGFJ&lid=LSTMOBH2Q5YS97TYGFJQS8C5F&marketplace=FLIPKART&q=Motorola+g85&store=tyy%2F4io&srno=s_1_13&otracker=search&otracker1=search&fm=organic&iid=8face6c7-b564-495b-a202-8b89ca950119.MOBH2Q5YS97TYGFJ.SEARCH&ppt=hp&ppn=homepage&ssid=ue5i8g22hs0000001755884992805&qH=9203211c77f6267a
+  - img "MOTOROLA Edge 50 (Peach Fuzz, 256 GB)"
+  - text: Add to Compare
+  - img
+  - text: MOTOROLA Edge 50 (Peach Fuzz, 256 GB) 4.3
+  - img
+  - text: 38,522 Ratings & 2,857 Reviews
+  - list:
+    - listitem: • 8 GB RAM | 256 GB ROM
+    - listitem: • 16.94 cm (6.67 inch) Display
+    - listitem: • 50MP + 13MP + 10MP | 32MP Front Camera
+    - listitem: • 5000 mAh Battery
+    - listitem: • Snapdragon 7 Gen 1 Accelerated Edition Processor
+    - listitem: • 1 Year Warranty on Handset and 6 Months Warranty on Accessories
+  - text: ₹20,999 ₹32,999 36% off
+  - img
+  - text: Super Deals Upto ₹16,400 Off on Exchange
+- link "Motorola g64 5G (Berry Red, 256 GB) Add to Compare Motorola g64 5G (Berry Red, 256 GB) 4.2 86,184 Ratings & 5,482 Reviews • 12 GB RAM | 256 GB ROM | Expandable Upto 1 TB • 16.51 cm (6.5 inch) Full HD+ Display • 50MP (OIS) + 8MP | 16MP Front Camera • 6000 mAh Battery • Dimensity 7025 Processor • 1 Year on Handset and 6 Months on Accessories ₹15,999 ₹19,999 20% off Upto ₹12,200 Off on Exchange Bank Offer":
+  - /url: /motorola-g64-5g-berry-red-256-gb/p/itmb96614e89f514?pid=MOBH35Z74ZMRYPFT&lid=LSTMOBH35Z74ZMRYPFTPQI9UZ&marketplace=FLIPKART&q=Motorola+g85&store=tyy%2F4io&srno=s_1_14&otracker=search&otracker1=search&fm=organic&iid=8face6c7-b564-495b-a202-8b89ca950119.MOBH35Z74ZMRYPFT.SEARCH&ppt=hp&ppn=homepage&ssid=ue5i8g22hs0000001755884992805&qH=9203211c77f6267a
+  - img "Motorola g64 5G (Berry Red, 256 GB)"
+  - text: Add to Compare
+  - img
+  - text: Motorola g64 5G (Berry Red, 256 GB) 4.2
+  - img
+  - text: 86,184 Ratings & 5,482 Reviews
+  - list:
+    - listitem: • 12 GB RAM | 256 GB ROM | Expandable Upto 1 TB
+    - listitem: • 16.51 cm (6.5 inch) Full HD+ Display
+    - listitem: • 50MP (OIS) + 8MP | 16MP Front Camera
+    - listitem: • 6000 mAh Battery
+    - listitem: • Dimensity 7025 Processor
+    - listitem: • 1 Year on Handset and 6 Months on Accessories
+  - text: ₹15,999 ₹19,999 20% off
+  - img
+  - text: Upto ₹12,200 Off on Exchange Bank Offer
+- link "MOTOROLA Edge 60 Fusion 5G (PANTONE Zephyr, 256 GB) Add to Compare MOTOROLA Edge 60 Fusion 5G (PANTONE Zephyr, 256 GB) 4.5 23,245 Ratings & 1,239 Reviews • 12 GB RAM | 256 GB ROM | Expandable Upto 1 TB • 16.94 cm (6.67 inch) Display • 50MP + 13MP | 32MP Front Camera • 5500 mAh Battery • Dimensity 7400 Processor • 68W Charger • 1 Year Warranty on Handset and 6 Months Warranty on Accessories ₹24,999 ₹27,999 10% off Upto ₹19,350 Off on Exchange Bank Offer":
+  - /url: /motorola-edge-60-fusion-5g-pantone-zephyr-256-gb/p/itma79107312a42f?pid=MOBH9AQZAFGM3U6Q&lid=LSTMOBH9AQZAFGM3U6Q0CEQSM&marketplace=FLIPKART&q=Motorola+g85&store=tyy%2F4io&srno=s_1_15&otracker=search&otracker1=search&fm=organic&iid=8face6c7-b564-495b-a202-8b89ca950119.MOBH9AQZAFGM3U6Q.SEARCH&ppt=hp&ppn=homepage&ssid=ue5i8g22hs0000001755884992805&qH=9203211c77f6267a
+  - img "MOTOROLA Edge 60 Fusion 5G (PANTONE Zephyr, 256 GB)"
+  - text: Add to Compare
+  - img
+  - text: MOTOROLA Edge 60 Fusion 5G (PANTONE Zephyr, 256 GB) 4.5
+  - img
+  - text: 23,245 Ratings & 1,239 Reviews
+  - list:
+    - listitem: • 12 GB RAM | 256 GB ROM | Expandable Upto 1 TB
+    - listitem: • 16.94 cm (6.67 inch) Display
+    - listitem: • 50MP + 13MP | 32MP Front Camera
+    - listitem: • 5500 mAh Battery
+    - listitem: • Dimensity 7400 Processor
+    - listitem: • 68W Charger
+    - listitem: • 1 Year Warranty on Handset and 6 Months Warranty on Accessories
+  - text: ₹24,999 ₹27,999 10% off
+  - img
+  - text: Upto ₹19,350 Off on Exchange Bank Offer
+- link "MOTOROLA G96 5G (Pantone Cattleya Orchid, 128 GB) Add to Compare MOTOROLA G96 5G (Pantone Cattleya Orchid, 128 GB) 4.4 8,262 Ratings & 444 Reviews • 8 GB RAM | 128 GB ROM • 16.94 cm (6.67 inch) Full HD+ Display • 50MP + 8MP | 32MP Front Camera • 5500 mAh Battery • 7s Gen 2 Processor • 1 Year Warranty on Handset and 6 Months Warranty on Accessories ₹17,999 ₹20,999 14% off Upto ₹13,900 Off on Exchange Bank Offer":
+  - /url: /motorola-g96-5g-pantone-cattleya-orchid-128-gb/p/itm1a71d1ad992ec?pid=MOBHB3SZZWVEZ5ZD&lid=LSTMOBHB3SZZWVEZ5ZDXVUUEN&marketplace=FLIPKART&q=Motorola+g85&store=tyy%2F4io&srno=s_1_16&otracker=search&otracker1=search&fm=organic&iid=8face6c7-b564-495b-a202-8b89ca950119.MOBHB3SZZWVEZ5ZD.SEARCH&ppt=hp&ppn=homepage&ssid=ue5i8g22hs0000001755884992805&qH=9203211c77f6267a
+  - img "MOTOROLA G96 5G (Pantone Cattleya Orchid, 128 GB)"
+  - text: Add to Compare
+  - img
+  - text: MOTOROLA G96 5G (Pantone Cattleya Orchid, 128 GB) 4.4
+  - img
+  - text: 8,262 Ratings & 444 Reviews
+  - list:
+    - listitem: • 8 GB RAM | 128 GB ROM
+    - listitem: • 16.94 cm (6.67 inch) Full HD+ Display
+    - listitem: • 50MP + 8MP | 32MP Front Camera
+    - listitem: • 5500 mAh Battery
+    - listitem: • 7s Gen 2 Processor
+    - listitem: • 1 Year Warranty on Handset and 6 Months Warranty on Accessories
+  - text: ₹17,999 ₹20,999 14% off
+  - img
+  - text: Upto ₹13,900 Off on Exchange Bank Offer
+- link "MOTOROLA G96 5G (Pantone Dresden Blue, 128 GB) Add to Compare MOTOROLA G96 5G (Pantone Dresden Blue, 128 GB) 4.4 8,262 Ratings & 444 Reviews • 8 GB RAM | 128 GB ROM • 16.94 cm (6.67 inch) Full HD+ Display • 50MP + 8MP | 32MP Front Camera • 5500 mAh Battery • 7s Gen 2 Processor • 1 Year Warranty on Handset and 6 Months Warranty on Accessories ₹17,999 ₹20,999 14% off Upto ₹13,900 Off on Exchange Bank Offer":
+  - /url: /motorola-g96-5g-pantone-dresden-blue-128-gb/p/itm3d5ad13991fdc?pid=MOBHB3SZW72BYGHK&lid=LSTMOBHB3SZW72BYGHKT0SAJS&marketplace=FLIPKART&q=Motorola+g85&store=tyy%2F4io&srno=s_1_17&otracker=search&otracker1=search&fm=organic&iid=8face6c7-b564-495b-a202-8b89ca950119.MOBHB3SZW72BYGHK.SEARCH&ppt=hp&ppn=homepage&ssid=ue5i8g22hs0000001755884992805&qH=9203211c77f6267a
+  - img "MOTOROLA G96 5G (Pantone Dresden Blue, 128 GB)"
+  - text: Add to Compare
+  - img
+  - text: MOTOROLA G96 5G (Pantone Dresden Blue, 128 GB) 4.4
+  - img
+  - text: 8,262 Ratings & 444 Reviews
+  - list:
+    - listitem: • 8 GB RAM | 128 GB ROM
+    - listitem: • 16.94 cm (6.67 inch) Full HD+ Display
+    - listitem: • 50MP + 8MP | 32MP Front Camera
+    - listitem: • 5500 mAh Battery
+    - listitem: • 7s Gen 2 Processor
+    - listitem: • 1 Year Warranty on Handset and 6 Months Warranty on Accessories
+  - text: ₹17,999 ₹20,999 14% off
+  - img
+  - text: Upto ₹13,900 Off on Exchange Bank Offer
+- link "Motorola g45 5G (Brilliant Green, 128 GB) Add to Compare Motorola g45 5G (Brilliant Green, 128 GB) 4.3 49,142 Ratings & 2,964 Reviews • 4 GB RAM | 128 GB ROM | Expandable Upto 1 TB • 16.51 cm (6.5 inch) HD+ Display • 50MP + 2MP | 16MP Front Camera • 5000 mAh Battery • Snapdragon 6s Gen 3 Processor • 1 Year Warranty on Handset and 6 Months Warranty on Accessories ₹10,999 ₹12,999 15% off Upto ₹8,350 Off on Exchange Bank Offer":
+  - /url: /motorola-g45-5g-brilliant-green-128-gb/p/itm4cb32ef81db77?pid=MOBH3YKQ5VYSGB5E&lid=LSTMOBH3YKQ5VYSGB5ELSP5CG&marketplace=FLIPKART&q=Motorola+g85&store=tyy%2F4io&srno=s_1_18&otracker=search&otracker1=search&fm=organic&iid=8face6c7-b564-495b-a202-8b89ca950119.MOBH3YKQ5VYSGB5E.SEARCH&ppt=hp&ppn=homepage&ssid=ue5i8g22hs0000001755884992805&qH=9203211c77f6267a
+  - img "Motorola g45 5G (Brilliant Green, 128 GB)"
+  - text: Add to Compare
+  - img
+  - text: Motorola g45 5G (Brilliant Green, 128 GB) 4.3
+  - img
+  - text: 49,142 Ratings & 2,964 Reviews
+  - list:
+    - listitem: • 4 GB RAM | 128 GB ROM | Expandable Upto 1 TB
+    - listitem: • 16.51 cm (6.5 inch) HD+ Display
+    - listitem: • 50MP + 2MP | 16MP Front Camera
+    - listitem: • 5000 mAh Battery
+    - listitem: • Snapdragon 6s Gen 3 Processor
+    - listitem: • 1 Year Warranty on Handset and 6 Months Warranty on Accessories
+  - text: ₹10,999 ₹12,999 15% off
+  - img
+  - text: Upto ₹8,350 Off on Exchange Bank Offer
+- link "Motorola g64 5G (Berry Red, 128 GB) Currently unavailable Add to Compare Motorola g64 5G (Berry Red, 128 GB) 4.3 61,013 Ratings & 3,785 Reviews • 8 GB RAM | 128 GB ROM | Expandable Upto 1 TB • 16.51 cm (6.5 inch) Full HD+ Display • 50MP (OIS) + 8MP | 16MP Front Camera • 6000 mAh Battery • Dimensity 7025 Processor • 1 Year on Handset and 6 Months on Accessories ₹13,999 ₹17,999 22% off Upto ₹10,850 Off on Exchange Bank Offer":
+  - /url: /motorola-g64-5g-berry-red-128-gb/p/itma0772d15ccde8?pid=MOBH35Z7GC745WGA&lid=LSTMOBH35Z7GC745WGAMRN1YQ&marketplace=FLIPKART&q=Motorola+g85&store=tyy%2F4io&srno=s_1_19&otracker=search&otracker1=search&fm=organic&iid=8face6c7-b564-495b-a202-8b89ca950119.MOBH35Z7GC745WGA.SEARCH&ppt=hp&ppn=homepage&ssid=ue5i8g22hs0000001755884992805&qH=9203211c77f6267a
+  - img "Motorola g64 5G (Berry Red, 128 GB)"
+  - text: Currently unavailable Add to Compare
+  - img
+  - text: Motorola g64 5G (Berry Red, 128 GB) 4.3
+  - img
+  - text: 61,013 Ratings & 3,785 Reviews
+  - list:
+    - listitem: • 8 GB RAM | 128 GB ROM | Expandable Upto 1 TB
+    - listitem: • 16.51 cm (6.5 inch) Full HD+ Display
+    - listitem: • 50MP (OIS) + 8MP | 16MP Front Camera
+    - listitem: • 6000 mAh Battery
+    - listitem: • Dimensity 7025 Processor
+    - listitem: • 1 Year on Handset and 6 Months on Accessories
+  - text: ₹13,999 ₹17,999 22% off
+  - img
+  - text: Upto ₹10,850 Off on Exchange Bank Offer
+- text: Page 1 of 82
+- navigation:
+  - link "1":
+    - /url: /search?q=Motorola+g85&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=1
+  - link "2":
+    - /url: /search?q=Motorola+g85&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=2
+  - link "3":
+    - /url: /search?q=Motorola+g85&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=3
+  - link "4":
+    - /url: /search?q=Motorola+g85&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=4
+  - link "5":
+    - /url: /search?q=Motorola+g85&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=5
+  - link "6":
+    - /url: /search?q=Motorola+g85&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=6
+  - link "7":
+    - /url: /search?q=Motorola+g85&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=7
+  - link "8":
+    - /url: /search?q=Motorola+g85&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=8
+  - link "9":
+    - /url: /search?q=Motorola+g85&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=9
+  - link "10":
+    - /url: /search?q=Motorola+g85&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=10
+  - link "Next":
+    - /url: /search?q=Motorola+g85&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=2
+- text: Did you find what you were looking for? Yes No Reviews for Popular Mobiles
+- img "Motorola g45 5G (Brilliant Green, 128 GB)"
+- link "1. Motorola g45 5G (Brilliant ... 4.3 49,142 Ratings&2,964 Reviews ₹10,999 15% off":
+  - /url: /motorola-g45-5g-brilliant-green-128-gb/p/itm4cb32ef81db77?pid=MOBH3YKQ5VYSGB5E&marketplace=FLIPKART
+  - text: 1. Motorola g45 5G (Brilliant ... 4.3
+  - img
+  - text: 49,142 Ratings&2,964 Reviews ₹10,999 15% off
+- list:
+  - listitem: 4 GB RAM | 128 GB ROM | Expandable Upto 1 TB
+  - listitem: 16.51 cm (6.5 inch) HD+ Display
+  - listitem: 50MP + 2MP | 16MP Front Camera
+- text: Most Helpful Review 5
+- img
+- paragraph: Just wow!
+- text: If price is considered than this is best spec u can get. But wait! not only specs Software experience is also clean and smooth. cherry on top is vegan leather.
+- paragraph: Shamsudduha khan
+- img
+- paragraph: Certified Buyer
+- paragraph: 11 months ago
+- text: Recent Review 2
+- img
+- paragraph: Could be way better
+- text: No recording feature and no dual sim
+- paragraph: Tousif Shaikh
+- img
+- paragraph: Certified Buyer
+- paragraph: 1 day ago
+- img "MOTOROLA Edge 50 (Peach Fuzz, 256 GB)"
+- link "2. MOTOROLA Edge 50 (Peach Fuz... 4.3 38,522 Ratings&2,857 Reviews ₹20,999 36% off":
+  - /url: /motorola-edge-50-peach-fuzz-256-gb/p/itmbb9d98d3f286b?pid=MOBH2Q5YS97TYGFJ&marketplace=FLIPKART
+  - text: 2. MOTOROLA Edge 50 (Peach Fuz... 4.3
+  - img
+  - text: 38,522 Ratings&2,857 Reviews ₹20,999 36% off
+- list:
+  - listitem: 8 GB RAM | 256 GB ROM
+  - listitem: 16.94 cm (6.67 inch) Display
+  - listitem: 50MP + 13MP + 10MP | 32MP Front Camera
+- text: Most Helpful Review 5
+- img
+- paragraph: Excellent
+- text: Your phone comes with RAM boost ON when you get it. Turning it off when you get it in your hands will make it run smoother and the heating issue will resolve.
+- paragraph: ABHIJITH MADHU
+- img
+- paragraph: Certified Buyer
+- paragraph: 11 months ago
+- text: Recent Review 4
+- img
+- paragraph: Very Good
+- text: Excellent mobile,this price. But one problem issue Heating, Charging time and Used long time. 8.5/10
+- paragraph: Flipkart Customer
+- img
+- paragraph: Certified Buyer
+- paragraph: 3 days ago
+- img "MOTOROLA g05 (Forest Green, 64 GB)"
+- link "3. MOTOROLA g05 (Forest Green,... 4.2 47,939 Ratings&3,315 Reviews ₹6,999 30% off":
+  - /url: /motorola-g05-forest-green-64-gb/p/itme5ed06a5943b9?pid=MOBH5F3Q2SGMAFHR&marketplace=FLIPKART
+  - text: 3. MOTOROLA g05 (Forest Green,... 4.2
+  - img
+  - text: 47,939 Ratings&3,315 Reviews ₹6,999 30% off
+- list:
+  - listitem: 4 GB RAM | 64 GB ROM | Expandable Upto 1 TB
+  - listitem: 16.94 cm (6.67 inch) HD+ Display
+  - listitem: 50MP Rear Camera | 8MP Front Camera
+- text: Most Helpful Review 3
+- img
+- paragraph: Good
+- text: First of all one question to Flipkart. What you mean by secure package fee? Not even Buble cover. Simple ordinary package. Looting the customer by taking sec... Read full review
+- paragraph: JOBY V
+- img
+- paragraph: Certified Buyer
+- paragraph: 7 months ago
+- text: Recent Review 5
+- img
+- paragraph: Terrific purchase
+- text: Overall very good android in budget
+- paragraph: chitti babu
+- img
+- paragraph: Certified Buyer
+- paragraph: 4 days ago
+- img "MOTOROLA Edge 60 Fusion 5G (PANTONE Mykonos Blue, 256 GB)"
+- link "4. MOTOROLA Edge 60 Fusion 5G ... 4.5 23,245 Ratings&1,239 Reviews ₹24,999 10% off":
+  - /url: /motorola-edge-60-fusion-5g-pantone-mykonos-blue-256-gb/p/itmed0508d75f2e5?pid=MOBH9AQZBGJGQSTG&marketplace=FLIPKART
+  - text: 4. MOTOROLA Edge 60 Fusion 5G ... 4.5
+  - img
+  - text: 23,245 Ratings&1,239 Reviews ₹24,999 10% off
+- list:
+  - listitem: 12 GB RAM | 256 GB ROM | Expandable Upto 1 TB
+  - listitem: 16.94 cm (6.67 inch) Display
+  - listitem: 50MP + 13MP | 32MP Front Camera
+- text: Most Helpful Review 5
+- img
+- paragraph: Perfect product!
+- text: Can't describe the happiness
+- paragraph: Sanjay John
+- img
+- paragraph: Certified Buyer
+- paragraph: 4 months ago
+- text: Recent Review 1
+- img
+- paragraph: Worthless
+- text: The edge screen is a disadvantage here. The phone UI is not easy to interact nor is attractive. The OS performance is poor.
+- paragraph: Arun Manikandan
+- img
+- paragraph: Certified Buyer
+- paragraph: 4 days ago
+- img "MOTOROLA G96 5G (Pantone Ashleigh Blue, 256 GB)"
+- link "5. MOTOROLA G96 5G (Pantone As... 4.4 8,262 Ratings&444 Reviews ₹19,999 13% off":
+  - /url: /motorola-g96-5g-pantone-ashleigh-blue-256-gb/p/itmda6d829eead4b?pid=MOBHB3SZWPZTFFEE&marketplace=FLIPKART
+  - text: 5. MOTOROLA G96 5G (Pantone As... 4.4
+  - img
+  - text: 8,262 Ratings&444 Reviews ₹19,999 13% off
+- list:
+  - listitem: 8 GB RAM | 256 GB ROM
+  - listitem: 16.94 cm (6.67 inch) Full HD+ Display
+  - listitem: 50MP + 8MP | 32MP Front Camera
+- text: Most Helpful Review 5
+- img
+- paragraph: Must buy!
+- text: 1. The phone is awesome and very light weight. 2. Super thin and curved poled display is super. 3. The battery is good, but might have some normal heating ... Read full review
+- paragraph: Md Shakil Khan
+- img
+- paragraph: Certified Buyer
+- paragraph: 1 month ago
+- text: Recent Review 5
+- img
+- paragraph: Must buy!
+- text: Really amezing product this price range. Amleod diaplay.
+- paragraph: mekala mahesh
+- img
+- paragraph: Certified Buyer
+- paragraph: Today
+- contentinfo:
+  - text: ABOUT
+  - link "Contact Us":
+    - /url: /helpcentre?otracker=footer_navlinks
+  - link "About Us":
+    - /url: https://corporate.flipkart.net/corporate-home
+  - link "Careers":
+    - /url: https://www.flipkartcareers.com/?otracker=footer_navlinks
+  - link "Flipkart Stories":
+    - /url: http://stories.flipkart.com/?otracker=footer_navlinks
+  - link "Press":
+    - /url: http://stories.flipkart.com/category/top-stories/news/
+  - link "Corporate Information":
+    - /url: /corporate-information
+  - text: GROUP COMPANIES
+  - link "Myntra":
+    - /url: https://www.myntra.com/
+  - link "Cleartrip":
+    - /url: https://www.cleartrip.com/
+  - link "Shopsy":
+    - /url: https://www.shopsy.in/
+  - text: HELP
+  - link "Payments":
+    - /url: /pages/payments
+  - link "Shipping":
+    - /url: /pages/shipping
+  - link "Cancellation & Returns":
+    - /url: /helpcentre?catalog=55c9c6edb000002e002c1701&view=CATALOG
+  - link "FAQ":
+    - /url: /helpcentre?catalog=55c9c8e2b0000023002c1702&view=CATALOG
+  - text: CONSUMER POLICY
+  - link "Cancellation & Returns":
+    - /url: /pages/returnpolicy?otracker=footer_navlinks
+  - link "Terms Of Use":
+    - /url: /pages/terms?otracker=footer_navlinks
+  - link "Security":
+    - /url: /pages/paymentsecurity?otracker=footer_navlinks
+  - link "Privacy":
+    - /url: /pages/privacypolicy?otracker=footer_navlinks
+  - link "Sitemap":
+    - /url: /sitemap?otracker=footer_navlinks
+  - link "Grievance Redressal":
+    - /url: /pages/grievance-redressal-mechanism?otracker=footer_navlinks
+  - link "EPR Compliance":
+    - /url: /pages/ewaste-compliance-tnc?otracker=footer_navlinks
+  - text: "Mail Us:"
+  - paragraph: Flipkart Internet Private Limited,
+  - paragraph: Buildings Alyssa, Begonia &
+  - paragraph: Clove Embassy Tech Village,
+  - paragraph: Outer Ring Road, Devarabeesanahalli Village,
+  - paragraph: Bengaluru, 560103,
+  - paragraph: Karnataka, India
+  - text: Social
+  - link:
+    - /url: https://www.facebook.com/flipkart
+    - img
+  - link:
+    - /url: https://www.twitter.com/flipkart
+    - img
+  - link:
+    - /url: https://www.youtube.com/flipkart
+    - img
+  - link:
+    - /url: https://www.instagram.com/flipkart
+    - img
+  - text: "Registered Office Address:"
+  - paragraph: Flipkart Internet Private Limited,
+  - paragraph: Buildings Alyssa, Begonia &
+  - paragraph: Clove Embassy Tech Village,
+  - paragraph: Outer Ring Road, Devarabeesanahalli Village,
+  - paragraph: Bengaluru, 560103,
+  - paragraph: Karnataka, India
+  - paragraph: "CIN : U51109KA2012PTC066107"
+  - paragraph:
+    - text: "Telephone:"
+    - link "044-45614700":
+      - /url: tel:044-45614700
+    - text: /
+    - link "044-67415800":
+      - /url: tel:044-67415800
+  - img
+  - link "Become a Seller":
+    - /url: https://seller.flipkart.com/?utm_source=fkwebsite&utm_medium=websitedirect
+  - img
+  - link "Advertise":
+    - /url: https://brands.flipkart.com
+  - img
+  - link "Gift Cards":
+    - /url: /the-gift-card-store?otracker=footer_navlinks
+  - img
+  - link "Help Center":
+    - /url: /helpcentre?otracker=footer_navlinks
+  - text: © 2007-2025 Flipkart.com
+  - img
+```

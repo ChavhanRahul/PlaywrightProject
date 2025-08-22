@@ -1,0 +1,167 @@
+# Page snapshot
+
+```yaml
+- paragraph:
+  - link "TestifyStack":
+    - /url: https://testifystack.com/
+  - text: "| Email, SMS, OTP and Webhooks Testing Stack for QA & Dev"
+  - link "API testing tools":
+    - img
+    - text: API testing tools
+- banner:
+  - navigation "Main navigation":
+    - link "SUT":
+      - /url: /
+      - 'img "Best Website for Practice Automation Testing: Free UI and REST API Examples and Apps. Using Cypress, Playwright, Selenium, WebdriverIO and Postman."'
+      - text: Practice
+    - list:
+      - listitem:
+        - button "Demos"
+      - listitem:
+        - link "Tools":
+          - /url: /#tools
+      - listitem:
+        - link "Tips":
+          - /url: /tips
+      - listitem:
+        - link "Test Cases":
+          - /url: /test-cases
+      - listitem:
+        - link "API Testing":
+          - /url: /notes/api/api-docs/
+      - listitem:
+        - link "About":
+          - /url: /about
+    - list
+    - link "Free ISTQB Mock Exams":
+      - /url: https://istqb.expandtesting.com/
+- main:
+  - insertion:
+    - iframe
+  - paragraph:
+    - text: Do you enjoy this platform? ❤️
+    - link "Buy us a coffee":
+      - /url: https://www.buymeacoffee.com/expandtesting
+  - navigation "breadcrumb mb-2":
+    - list:
+      - listitem:
+        - link "Home":
+          - /url: /
+      - listitem: / Dynamic pagination Table
+  - heading "Dynamic pagination Table page for Automation Testing Practice" [level=1]
+  - paragraph: This page features a dynamic, paginated table designed for automation testing. It loads predefined student data and utilizes DataTables for seamless pagination, sorting, and filtering. Users can adjust the number of visible rows (3, 5, or more) to test automated interactions efficiently.
+  - text: Show
+  - combobox "Show entries":
+    - option "3"
+    - option "5"
+    - option "10" [selected]
+    - option "All"
+  - text: "entries Search:"
+  - searchbox "Search:"
+  - table:
+    - rowgroup:
+      - 'row "Student Name: activate to sort column descending Gender: activate to sort column ascending Class Level: activate to sort column ascending Home State: activate to sort column ascending Major: activate to sort column ascending Extracurricular Activity: activate to sort column ascending"':
+        - 'cell "Student Name: activate to sort column descending"': Student Name
+        - 'cell "Gender: activate to sort column ascending"': Gender
+        - 'cell "Class Level: activate to sort column ascending"': Class Level
+        - 'cell "Home State: activate to sort column ascending"': Home State
+        - 'cell "Major: activate to sort column ascending"': Major
+        - 'cell "Extracurricular Activity: activate to sort column ascending"': Extracurricular Activity
+    - rowgroup:
+      - row "Alice Johnson Female Sophomore Texas Mathematics Debate Team":
+        - cell "Alice Johnson"
+        - cell "Female"
+        - cell "Sophomore"
+        - cell "Texas"
+        - cell "Mathematics"
+        - cell "Debate Team"
+      - row "Bob Williams Male Freshman Florida Physics Soccer":
+        - cell "Bob Williams"
+        - cell "Male"
+        - cell "Freshman"
+        - cell "Florida"
+        - cell "Physics"
+        - cell "Soccer"
+      - row "Daniel Martinez Male Freshman Nevada Political Science Football":
+        - cell "Daniel Martinez"
+        - cell "Male"
+        - cell "Freshman"
+        - cell "Nevada"
+        - cell "Political Science"
+        - cell "Football"
+      - row "Emma Brown Female Senior Illinois Engineering Music Club":
+        - cell "Emma Brown"
+        - cell "Female"
+        - cell "Senior"
+        - cell "Illinois"
+        - cell "Engineering"
+        - cell "Music Club"
+      - row "Ethan Thomas Male Junior Michigan Business Basketball":
+        - cell "Ethan Thomas"
+        - cell "Male"
+        - cell "Junior"
+        - cell "Michigan"
+        - cell "Business"
+        - cell "Basketball"
+      - row "Jane Smith Female Junior New York Biology Chess Club":
+        - cell "Jane Smith"
+        - cell "Female"
+        - cell "Junior"
+        - cell "New York"
+        - cell "Biology"
+        - cell "Chess Club"
+      - row "John Doe Male Senior California Computer Science Basketball":
+        - cell "John Doe"
+        - cell "Male"
+        - cell "Senior"
+        - cell "California"
+        - cell "Computer Science"
+        - cell "Basketball"
+      - row "Michael Davis Male Junior Georgia Chemistry Drama":
+        - cell "Michael Davis"
+        - cell "Male"
+        - cell "Junior"
+        - cell "Georgia"
+        - cell "Chemistry"
+        - cell "Drama"
+      - row "Olivia Wilson Female Sophomore Ohio English Swimming":
+        - cell "Olivia Wilson"
+        - cell "Female"
+        - cell "Sophomore"
+        - cell "Ohio"
+        - cell "English"
+        - cell "Swimming"
+      - row "Sophia Anderson Female Senior Arizona History Dance Club":
+        - cell "Sophia Anderson"
+        - cell "Female"
+        - cell "Senior"
+        - cell "Arizona"
+        - cell "History"
+        - cell "Dance Club"
+  - status: Showing 1 to 10 of 10 entries
+  - list:
+    - listitem: Previous
+    - listitem:
+      - link "1":
+        - /url: "#"
+    - listitem: Next
+  - link "Free automation testing tool":
+    - img
+    - text: Free automation testing tool
+  - link "API testing tools":
+    - img
+    - text: API testing tools
+  - link "Cloud-based automation testing platform":
+    - img
+    - text: Cloud-based automation testing platform
+- contentinfo:
+  - heading "Practice Test Automation WebSite for Web UI and Rest API" [level=4]
+  - paragraph:
+    - text: "Version: 935c019b | Copyright"
+    - link "Expand Testing":
+      - /url: https://expandtesting.com/
+    - text: "2025"
+- img
+- insertion:
+  - iframe
+```

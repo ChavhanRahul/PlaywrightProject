@@ -32,7 +32,7 @@ test('Verify OTP and Login', async function ({page}){
     await page.locator("//input[@id='otp']").fill('214365')
     await page.locator("//button[@id='btn-send-verify']").click()
     await page.locator("//i[normalize-space()='Logout']").click()
-    await browser.close()
+    //await browser.close()
 })
 
 test('Handel Drop Down', async function ({page}) {
