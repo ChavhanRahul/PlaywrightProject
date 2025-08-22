@@ -14,7 +14,7 @@ test('Login to Practice Application', async function ({page}) {
     //Scroll the page up to select Test Login Page link
     await page.mouse.down()
     //Login Page and open in same tab
-    await page.locator("//a[normalize-space()='Test Login Page']").click({waitUntil:'domcontentloaded'})
+    await page.locator("//a[normalize-space()='Test Login Page']").click()
     //Find Login Page and open in new tab
     //await page.locator("//a[normalize-space()='Test Login Page']").click({modifiers: ['Control']})
     await page.locator("//label[normalize-space()='Username']").fill('practice')
@@ -49,3 +49,12 @@ test('Handel Drop Down', async function ({page}) {
 
 
 })
+
+
+test('test', async ({ page }) => {
+  await page.goto('https://practice.expandtesting.com/dynamic-pagination-table');
+  await page.getByLabel('Show 3510All entries').selectOption('10');
+  await page.getByRole('button', { name: 'Close shopping anchor' }).selectOption('10');
+  await page.getByRole('button', { name: 'Close shopping anchor' }).click();
+  await page.locator('#example_next').click();
+});

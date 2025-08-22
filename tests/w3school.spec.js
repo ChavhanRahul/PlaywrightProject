@@ -1,14 +1,6 @@
 const {test, expect} = require('@playwright/test')
-const { connectDatabase, disconnectDatabase, runQuery } = require('./db');
+
 const fs = require('fs')
-
-  test.beforeAll(async () => {
-    await connectDatabase();
-  });
-
-  test.afterAll(async () => {
-    await disconnectDatabase();
-  });
 
 const credentials = JSON.parse(fs.readFileSync('credentials.json', 'utf-8'))
 const {username2, password2} = credentials
@@ -18,8 +10,12 @@ test.describe('Automation with W3School', () => {
 test('Sign In/Register to W3School' , async function({page}){
     await page.goto('https://www.w3schools.com/', {waitUntil: 'domcontentloaded'})
     await page.locator("//span[normalize-space()='Sign In'][1]").click()
-    await page.getByPlaceholder('Email').fill(username2, {delay: 200})
-    await page.getByPlaceholder('Password').fill(password2, {delay: 200})
+    // await page.getByPlaceholder('Email').fill(username2, {delay: 200})
+    // await page.getByPlaceholder('Password').fill(password2, { delay: 200})
+    
+    await page.getByPlaceholder('Email').type(username2, { delay: 200 });
+    await page.getByPlaceholder('Password').type(password2, { delay: 200 });
+    
     await page.locator("//button[@type='submit']//span[@class='button-text'][normalize-space()='Sign In']").click()
     const loginerror = await page.getByText('In-valid username or password', {exact: true})
     if(await loginerror.isVisible()) {

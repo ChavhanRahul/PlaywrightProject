@@ -1,13 +1,3 @@
-const arr = [1,2,1,3,1]
-//const Removeduplucate = [...new Set(arr)]
-const Removeduplucate = arr.filter((item, index) => arr.indexOf(item) ===index)
-console.log(Removeduplucate);
-
-
-
-
-
-
 // const {test, expect, chromium} = require('@playwright/test')
 // test.describe('Automation Interview at "UBS"', () => {
 //     test('Login to UBS', async ({page}) => {
@@ -46,3 +36,4 @@ const {chromium} = require('playwright');
     console.log('Login with saved credentials')
     await browser.close()
 })()
+
