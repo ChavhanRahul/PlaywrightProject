@@ -1,8 +1,13 @@
 const {test, expect} = require('@playwright/test')
 const { promises } = require('dns')
 test.describe('Automate Practice Application', () => {
-
-
+    
+    test.only('Upload file', async ({page}) => {
+        await page.goto('https://practice.expandtesting.com/upload');
+        await page.locator('//input[@id="fileInput"]').setInputFiles('C:\\Users\\Pragati\\OneDrive\\Desktop\\Testing Files\\Test upload.txt');
+        await page.locator('//button[@id="fileSubmit"]').click();
+        // expect(page.getByText('File Uploaded!')).toBeVisible();
+    })
 test('Login to Practice Application', async function ({page}) {
     await page.goto('https://practice.expandtesting.com/', {waitUntil: 'domcontentloaded'})   
     //Verify the Title 

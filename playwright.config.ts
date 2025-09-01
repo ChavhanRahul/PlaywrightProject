@@ -21,7 +21,6 @@ export default defineConfig({
     baseURL: 'http://localhost:3000',
     /* Collect trace when retrying the failed test. See https://playwright.dev/docs/trace-viewer */
     trace: 'on-first-retry',
-   
   },
   /* Set the maximum time one test can run for */
     timeout: 30_000,
@@ -73,3 +72,5 @@ export default defineConfig({
   //   reuseExistingServer: !process.env.CI,
   // },
 });
+
+
