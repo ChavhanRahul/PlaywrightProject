@@ -1,6 +1,9 @@
 const { test, expect } = require('@playwright/test');
 const { LoginPage } = require('../pages/loginpage');
 const { DashboardPage } = require('../pages/dashboardpage');
+const dotenv  = require('dotenv');
+dotenv.config({ path: `.env.${process.env.ENV || 'qa'}` });
+//require('dotenv').config({ path: '.env.' + process.env.qa});
 
 test.describe('Login Tests', () => {
   
@@ -10,8 +13,9 @@ test.describe('Login Tests', () => {
 
     await loginPage.goto();
     await loginPage.login('tomsmith', 'SuperSecretPassword!');
-   // await loginPage.login(process.env.Username, process.env.Password);
-const message = await loginPage.getFlashMessage();
+    //await loginPage.login(process.env.USERNAME, process.env.PASSWORD);
+
+    const message = await loginPage.getFlashMessage();
     expect(message).toContain('You logged into a secure area!');
 
     const header = await dashboardPage.getHeaderText();
